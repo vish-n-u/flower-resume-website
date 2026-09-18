@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python - <<'PYEOF'\nimport glob\n\nfiles = glob.glob\\('**/*.html', recursive=True\\)\ntotal = 0\nfor f in files:\n    with open\\(f, 'r', encoding='utf-8'\\) as fh:\n        content = fh.read\\(\\)\n    count = content.count\\('app.flowerresume.com'\\)\n    if count:\n        content = content.replace\\('app.flowerresume.com', 'app.flower-resume.com'\\)\n        with open\\(f, 'w', encoding='utf-8'\\) as fh:\n            fh.write\\(content\\)\n        print\\(f'Updated {count} link\\(s\\): {f}'\\)\n        total += count\nprint\\(f'\\\\nTotal replacements: {total}'\\)\nPYEOF)"
+    ]
+  }
+}
