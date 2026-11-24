@@ -51,15 +51,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     "name": "Flower Resume",
     "url": "https://flower-resume.com/about"
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Flower Resume",
-    "url": "https://flower-resume.com/",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://flower-resume.com/images/logo-512.png"
-    }
-  },
+  "publisher": {"@id": "https://flower-resume.com/#organization"},
   "datePublished": "2026-11-24",
   "dateModified": "2026-11-24",
   "mainEntityOfPage": "https://flower-resume.com/blog/use-ai-for-resume-without-sounding-like-ai"
@@ -131,6 +123,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   ]
 }
   </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://flower-resume.com/#organization",
+      "name": "Flower Resume",
+      "url": "https://flower-resume.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://flower-resume.com/images/logo-512.png",
+        "width": 512,
+        "height": 512
+      },
+      "description": "Free AI resume builder that tailors your resume to any job description and exports watermark-free PDFs.",
+      "email": "hello@flower-resume.com"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://flower-resume.com/#website",
+      "url": "https://flower-resume.com/",
+      "name": "Flower Resume",
+      "publisher": {
+        "@id": "https://flower-resume.com/#organization"
+      },
+      "inLanguage": "en"
+    }
+  ]
+}
+  </script>
 </head>
 <body class="text-slate-800 bg-white">
 <!-- Google Tag Manager (noscript) -->
@@ -191,6 +214,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <!-- Article -->
       <article class="text-sm sm:text-base text-slate-600 leading-relaxed space-y-6">
+      <div class="bg-yellow-50 border border-yellow-200 rounded-xl p-5 sm:p-6" data-aeo="takeaways"><p class="font-semibold text-yellow-800 mb-2 text-base">Key takeaways</p><ul class="list-disc list-inside space-y-1.5 text-sm text-yellow-900"><li>80% of U.S. hiring managers say they can often tell when a resume was written by AI (Resume Genius, 2026).</li><li>What they flag is unnatural phrasing, generic language and vague or inflated claims, which are all fixable.</li><li>Use AI to read the job description, find keyword gaps and draft from your own facts; never let it invent numbers.</li><li>Fact-check every line, cut buzzwords, and add one detail per role that only you would know.</li></ul></div>
+
         <p>AI resume tools are now so common that hiring managers say they're getting a flood of resumes that look and sound the same. That doesn't mean you shouldn't use AI. Used well, it's the fastest way to tailor a resume to each job. But there's a real difference between a resume that was <em>drafted with AI</em> and one that <em>sounds like AI</em>, and recruiters notice it.</p>
         <p>Here's what the 2026 data says, where AI genuinely helps, where it hurts, and a workflow that gets you the speed without the sameness. (Disclosure: Flower Resume is an AI resume builder. This is how we'd want you to use our tool, or anyone's.)</p>
 

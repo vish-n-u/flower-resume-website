@@ -54,12 +54,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         "name": "Flower Resume",
         "url": "https://flower-resume.com/"
       },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Flower Resume",
-        "url": "https://flower-resume.com/",
-        "logo": "https://flower-resume.com/images/logo-512.png"
-      }
+      "publisher": {"@id": "https://flower-resume.com/#organization"}
     },
     {
       "@type": "BreadcrumbList",
@@ -77,6 +72,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           "item": "https://flower-resume.com/about"
         }
       ]
+    }
+  ]
+}
+  </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://flower-resume.com/#organization",
+      "name": "Flower Resume",
+      "url": "https://flower-resume.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://flower-resume.com/images/logo-512.png",
+        "width": 512,
+        "height": 512
+      },
+      "description": "Free AI resume builder that tailors your resume to any job description and exports watermark-free PDFs.",
+      "email": "hello@flower-resume.com"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://flower-resume.com/#website",
+      "url": "https://flower-resume.com/",
+      "name": "Flower Resume",
+      "publisher": {
+        "@id": "https://flower-resume.com/#organization"
+      },
+      "inLanguage": "en"
     }
   ]
 }
@@ -144,7 +170,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
         <h2 class="text-2xl sm:text-3xl font-medium text-slate-800 mb-5">Resume Builders Are Broken</h2>
         <p class="text-sm sm:text-base text-slate-500 mb-4 leading-relaxed">You spend an hour building your resume, hit download — and you're asked to pay. Or you get a watermarked PDF that signals to recruiters you used a cheap tool.</p>
-        <p class="text-sm sm:text-base text-slate-500 mb-4 leading-relaxed">Meanwhile, the job market is more competitive than ever. Applicant Tracking Systems reject 75% of resumes before a human ever sees them. A generic resume sent to 100 jobs performs far worse than a tailored one sent to 10.</p>
+        <p class="text-sm sm:text-base text-slate-500 mb-4 leading-relaxed">Meanwhile, the job market is more competitive than ever. Nearly every large employer screens applications through an Applicant Tracking System, and recruiters search those systems by skill keywords first (76.4% of recruiters in a <a href="https://www.jobscan.co/organizations/ats-ready-resumes/" target="_blank" rel="noopener" class="text-yellow-700 underline">2025 Jobscan survey</a>). A generic resume that doesn't use the job's own words often never shows up in those searches.</p>
         <p class="text-sm sm:text-base text-slate-500 leading-relaxed">Job seekers deserve better tools. Tools that actually work. Tools that shouldn't cost money.</p>
       </div>
       <div class="bg-gradient-to-br from-yellow-50 to-amber-50 rounded-2xl p-12 flex items-center justify-center border border-yellow-200">

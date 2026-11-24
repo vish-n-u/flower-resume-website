@@ -54,12 +54,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         "name": "Flower Resume",
         "url": "https://flower-resume.com/"
       },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Flower Resume",
-        "url": "https://flower-resume.com/",
-        "logo": "https://flower-resume.com/images/logo-512.png"
-      },
+      "publisher": {"@id": "https://flower-resume.com/#organization"},
       "mainEntity": {
         "@type": "ItemList",
         "itemListElement": [
@@ -127,6 +122,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           "item": "https://flower-resume.com/blog/"
         }
       ]
+    }
+  ]
+}
+  </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://flower-resume.com/#organization",
+      "name": "Flower Resume",
+      "url": "https://flower-resume.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://flower-resume.com/images/logo-512.png",
+        "width": 512,
+        "height": 512
+      },
+      "description": "Free AI resume builder that tailors your resume to any job description and exports watermark-free PDFs.",
+      "email": "hello@flower-resume.com"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://flower-resume.com/#website",
+      "url": "https://flower-resume.com/",
+      "name": "Flower Resume",
+      "publisher": {
+        "@id": "https://flower-resume.com/#organization"
+      },
+      "inLanguage": "en"
     }
   ]
 }
@@ -254,7 +280,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h2 class="mt-3 font-semibold text-slate-800 leading-snug group-hover:text-yellow-700 transition">
             <a href="ats-resume-tips.html">ATS Resume Tips: How to Beat the Bots and Get Your Resume Seen</a>
           </h2>
-          <p class="mt-2 text-xs text-slate-500 leading-relaxed">75% of resumes are rejected by ATS before a human reads them. Here's how to get past every filter.</p>
+          <p class="mt-2 text-xs text-slate-500 leading-relaxed">Recruiters search ATS databases by keyword before they read anything. Here's how to get past every filter.</p>
           <div class="mt-4 flex items-center justify-between">
             <span class="text-xs text-slate-400">May 2026 · 10 min read</span>
             <a href="ats-resume-tips.html" class="text-xs font-semibold text-yellow-600 hover:text-yellow-700 transition">Read →</a>

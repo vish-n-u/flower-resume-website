@@ -54,6 +54,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
+    "publisher": {"@id": "https://flower-resume.com/#organization"},
     "name": "Flower Resume",
     "alternateName": ["Flower Resume Builder", "Flower AI Resume Creator"],
     "url": "https://flower-resume.com/",
@@ -67,7 +68,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       "Unlimited watermark-free PDF downloads",
       "ATS-optimized resume formatting",
       "One-click resume generation",
-      "No account or credit card required"
+      "Free account, no credit card required"
     ],
     "screenshot": "https://flower-resume.com/images/og-home.png",
     "offers": {
@@ -108,18 +109,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     "totalTime": "PT1M",
     "supply": { "@type": "HowToSupply", "name": "Job description from any job posting" },
     "tool": { "@type": "HowToTool", "name": "Flower Resume (free, at flower-resume.com)" }
-  }
-  </script>
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Flower Resume",
-    "url": "https://flower-resume.com/",
-    "logo": "https://flower-resume.com/images/logo-512.png",
-    "description": "Flower Resume is a free AI-powered resume builder that tailors your resume to any job description in seconds. No watermarks, no subscription, unlimited PDF downloads — free forever.",
-    "contactPoint": { "@type": "ContactPoint", "email": "hello@flower-resume.com", "contactType": "customer support" },
-    "sameAs": []
   }
   </script>
   <script type="application/ld+json">
@@ -169,6 +158,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       }
     ]
   }
+  </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://flower-resume.com/#organization",
+      "name": "Flower Resume",
+      "url": "https://flower-resume.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://flower-resume.com/images/logo-512.png",
+        "width": 512,
+        "height": 512
+      },
+      "description": "Free AI resume builder that tailors your resume to any job description and exports watermark-free PDFs.",
+      "email": "hello@flower-resume.com"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://flower-resume.com/#website",
+      "url": "https://flower-resume.com/",
+      "name": "Flower Resume",
+      "publisher": {
+        "@id": "https://flower-resume.com/#organization"
+      },
+      "inLanguage": "en"
+    }
+  ]
+}
   </script>
 </head>
 <body class="text-slate-800 bg-white">

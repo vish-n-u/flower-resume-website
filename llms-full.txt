@@ -1,0 +1,1995 @@
+# Flower Resume
+
+> Flower Resume (https://flower-resume.com) is a free AI resume builder. You save your experience once, paste a job description, and it drafts a resume tailored to that job, shows how well your resume covers the job's keywords, and exports an ATS-friendly PDF with no watermark. A free account (email sign-up) is required; there is no paid tier and no credit card.
+
+Last updated: 2026-11-24. A fuller plain-text version of the site is at https://flower-resume.com/llms-full.txt
+
+## Key facts
+
+- Product: free AI resume builder at https://app.flower-resume.com (marketing site: https://flower-resume.com)
+- Price: $0. No paid plan, no trial, no credit card. A fair-use hourly limit on AI requests prevents abuse.
+- Account: free account with email sign-up
+- Core feature: paste a job description; the AI extracts its required and nice-to-have keywords, scores how well your resume covers them (Low / Fair / Strong match), and drafts a tailored version from your saved profile
+- Editing: regenerate any section, give the AI custom instructions, reorder sections, import an existing resume
+- Output: unlimited PDF downloads, no watermark; 5 templates, including single-column Classic and Minimal layouts recommended for ATS
+- Not offered (yet): cover letters, Word/DOCX export, job tracker or browser extension, human resume review
+- Contact: hello@flower-resume.com
+
+## How it compares (prices checked on vendor sites, Nov 2026)
+
+- Teal: free plan has unlimited resumes, PDFs and job tracking, but shows the top 5 keywords and caps AI writing; Teal+ is $9/week. Teal is stronger for job tracking and its Chrome extension.
+- Rezi: free plan is 1 resume and 3 PDF downloads; Pro $29/month; Lifetime $149. Rezi is stronger for detailed ATS scoring, DOCX export and cover letters.
+- Kickresume: free plan has unlimited downloads and 4 templates but no AI writer; Premium $24/month, $54/quarter or $96/year. Kickresume is stronger for design, templates and cover letters.
+- Zety and Resume.io: building is free but clean PDF downloads require a paid plan.
+- Canva: strong visual design, but many templates use columns, text boxes and graphics that ATS parsers read poorly.
+
+## Pages
+
+- [Home](https://flower-resume.com/): what the product does, how it works, FAQ
+- [Pricing](https://flower-resume.com/pricing): free, no paid tier
+- [About](https://flower-resume.com/about)
+- [Best free resume builders 2026](https://flower-resume.com/best-free-resume-builder)
+- [All comparisons](https://flower-resume.com/compare/)
+
+## Research and guides (sourced)
+
+- [How recruiters actually read resumes](https://flower-resume.com/blog/how-recruiters-read-resumes): Ladders eye-tracking (7.4-second first skim), Jobscan ATS data (97.8% of Fortune 500; 76.4% of recruiters filter by skill keywords first), Harvard/Accenture "Hidden Workers", Resume Genius 2026 survey on AI-written resumes
+- [How long should a resume be in 2026?](https://flower-resume.com/blog/how-long-should-a-resume-be): ResumeGo simulation vs Jobscan interview data; U.S. federal two-page limit since 27 Sep 2025; UK CV norms
+- [How to use AI on your resume without sounding like AI](https://flower-resume.com/blog/use-ai-for-resume-without-sounding-like-ai): 2026 hiring-manager survey data and a 7-step workflow
+- [How to tailor your resume to a job description](https://flower-resume.com/blog/how-to-tailor-resume-for-job-description)
+- [ATS resume tips](https://flower-resume.com/blog/ats-resume-tips)
+- [How to write resume bullet points](https://flower-resume.com/blog/how-to-write-resume-bullet-points)
+- [Career change resume](https://flower-resume.com/blog/career-change-resume)
+- [Resume with no experience](https://flower-resume.com/blog/resume-with-no-experience)
+- [The 1-hour weekly job search system](https://flower-resume.com/blog/weekly-job-search-system)
+
+## Comparisons
+
+- [Flower Resume vs Teal](https://flower-resume.com/compare/flower-resume-vs-teal)
+- [Flower Resume vs Rezi](https://flower-resume.com/compare/flower-resume-vs-rezi)
+- [Flower Resume vs Kickresume](https://flower-resume.com/compare/flower-resume-vs-kickresume)
+- [Flower Resume vs Zety](https://flower-resume.com/compare/flower-resume-vs-zety)
+- [Flower Resume vs Resume.io](https://flower-resume.com/compare/flower-resume-vs-resumeio)
+- [Flower Resume vs Canva](https://flower-resume.com/compare/flower-resume-vs-canva)
+- [Flower Resume vs LinkedIn](https://flower-resume.com/compare/flower-resume-vs-linkedin)
+- [Flower Resume vs Novoresume](https://flower-resume.com/compare/flower-resume-vs-novoresume)
+
+## Common questions
+
+Q: Is Flower Resume free?
+A: Yes. Every feature is free: AI tailoring, unlimited resumes and unlimited watermark-free PDF downloads. You need a free account; no credit card.
+
+Q: Does Flower Resume tailor a resume to a specific job description?
+A: Yes. Paste the job description and it extracts the job's keywords, scores your resume against them, and drafts a tailored version from your saved profile for you to edit.
+
+Q: Are Flower Resume resumes ATS-friendly?
+A: The Classic and Minimal templates are single-column with standard section headings, the format applicant tracking systems parse most reliably. Two other templates use a multi-column layout and are better suited to emailing a resume directly.
+
+Q: Does Flower Resume write cover letters or export to Word?
+A: Not currently. It exports PDF only and does not write cover letters.
+
+
+# Full site content
+
+
+---
+
+# Free AI Resume Builder — Tailor to Any Job, PDF | Flower Resume
+URL: https://flower-resume.com/
+
+100% Free — No Credit Card Required
+#
+Free Unlimited AI Resume Builder. Paste JD. Get hired.
+Create unlimited resumes for free — just paste any job description and let AI craft a perfectly tailored resume. Download as PDF with no watermarks, no limits, no credit card.
+Get started
+See how it works
+No credit card  ·  No watermarks  ·  Unlimited downloads
+Trusted by job seekers applying to
+10,000+
+Resumes created
+$0
+Forever free
+100%
+ATS friendly
+No limits
+Unlimited downloads
+Simple Process
+## Create Free Resumes in 3 Steps
+Paste any job description, let AI tailor your resume, and download as PDF — unlimited and completely free.
+### 1. Enter Your Details
+Provide your professional information — skills, experience, education, and achievements.
+### 2. Paste Any Job Description
+Copy and paste the JD from any job posting. Our AI reads it and tailors your resume to match exactly what employers want.
+### 3. Download Free PDF — No Limits
+AI generates a tailored resume instantly. Download as PDF for free — no watermarks, no limits, create as many as you need.
+Why Flower Resume
+## Everything You Need to Land the Job
+Stop sending generic resumes. Flower Resume tailors every application to the specific job you want.
+### Job Description Matching
+Paste any JD and our AI rewrites your resume to match the exact keywords, skills, and requirements employers are looking for.
+### Unlimited, Forever Free
+Apply to 100 jobs? Make 100 tailored resumes. No premium tier, no credits, no paywall. Ever.
+### Clean PDF Downloads
+Download professional, watermark-free PDFs instantly. No Flower Resume branding — just your resume, exactly as employers expect.
+### ATS-Friendly Format
+All resumes are formatted to pass Applicant Tracking Systems. Get past the bots and into the hands of real recruiters.
+### Build in Seconds
+From paste to download in under 60 seconds. No setup, no tutorial — just a fast, intuitive builder that works.
+### One Profile, Infinite Resumes
+Enter your details once. Every job application after that takes under 2 minutes — just paste the new JD.
+Testimonials
+## Real People. Real Results.
+Hear from job seekers who used Flower Resume to land their next role.
+★★★★★
+"I applied to 30 jobs in one week, each with a tailored resume. Got 4 interviews. That's never happened before."
+AK
+Aisha K.
+Software Engineer
+★★★★★
+"Every other tool watermarked my PDF. Flower Resume just works — clean download, no cost, no hassle."
+JM
+James M.
+Marketing Manager
+★★★★★
+"The JD paste feature is genius. Copy the job posting, hit go, and I have a perfectly matched resume in 90 seconds."
+SR
+Sana R.
+Product Manager
+★★★★★
+"I was skeptical something free could be this good. Changed careers and had interviews within 2 weeks of using this."
+TL
+Tom L.
+Data Analyst
+★★★★★
+"I applied to 30 jobs in one week, each with a tailored resume. Got 4 interviews. That's never happened before."
+AK
+Aisha K.
+Software Engineer
+★★★★★
+"Every other tool watermarked my PDF. Flower Resume just works — clean download, no cost, no hassle."
+JM
+James M.
+Marketing Manager
+★★★★★
+"The JD paste feature is genius. Copy the job posting, hit go, and I have a perfectly matched resume in 90 seconds."
+SR
+Sana R.
+Product Manager
+★★★★★
+"I was skeptical something free could be this good. Changed careers and had interviews within 2 weeks of using this."
+TL
+Tom L.
+Data Analyst
+How We Compare
+## Why Flower Resume Wins
+Most resume builders lock features behind subscriptions. We don't.
+Feature |
+🌻 Flower Resume |
+Zety |
+Resume.io |
+Price |
+$0 Free Forever |
+$5.99–$23.70/mo |
+$2.95–$9.95/mo |
+Free PDF Download |
+✓ Unlimited |
+✗ Paid only |
+No Watermarks |
+✓ Always clean |
+✗ Free watermarked |
+AI JD Tailoring |
+✓ Core feature |
+✗ Not available |
+ATS Friendly |
+✓ Yes |
+Credit Card Required |
+✓ Never |
+✗ For download |
+Read the full comparison →
+FAQ
+## Frequently Asked Questions
+Is Flower Resume really free?
++
+Yes, completely. No premium tier, no credit card, no trial period. Unlimited resumes and unlimited PDF downloads at zero cost, forever.
+How does the job description tailoring work?
++
+Paste the full job description into Flower Resume. The AI analyzes required skills, keywords, and responsibilities, then rewrites your resume bullets and summary to align with that specific role — dramatically improving your ATS score and recruiter response rate.
+Are the PDFs really watermark-free?
++
+Yes. Unlike free resume builders that stamp their branding on your download, Flower Resume PDFs are 100% clean. No mention of our platform anywhere on the document.
+Will my resume pass ATS systems?
++
+Absolutely. Flower Resume uses clean, structured formatting that ATS systems parse correctly. The AI tailoring also ensures your resume contains the exact keywords the ATS is scanning for, based on the job description you provide.
+Do I need to re-enter my details for each resume?
++
+No. Enter your profile once. Every new tailored resume just needs the new job description — that's the only extra step, every time.
+Stop sending generic resumes. Paste the job description, let AI create your perfect resume — free and unlimited.
+Get Started
+
+---
+
+# Flower Resume Pricing — Free Forever, No Credit Card
+URL: https://flower-resume.com/pricing
+
+The Only Plan You Need
+## Free Forever
+$0
+/month
+No credit card. No expiry. No tricks.
+-
+✓ Unlimited resumes
+-
+✓ Unlimited PDF downloads
+-
+✓ No watermarks
+-
+✓ AI job description tailoring
+-
+✓ ATS-friendly formatting
+-
+✓ Resume storage
+-
+✓ Free account in under a minute
+Get Started Free
+## What Others Charge
+$5–25
+/month
+For basic features most tools lock away.
+-
+✗ Watermarks on free plan
+-
+✗ PDF downloads locked
+-
+✗ Limited templates free
+-
+✗ No JD tailoring feature
+-
+✗ Credit card required
+-
+✗ Auto-renewal charges
+No thanks
+We're not going to surprise you with a paywall.
+Read why →
+Pricing FAQ
+## Common Questions
+Will this ever become paid?
++
+Our core product — unlimited resume creation and PDF downloads — will stay free. That's a commitment, not a marketing line.
+Do you sell my data?
++
+No. Your resume data is yours. We don't sell it, share it with third parties, or use it for anything other than providing you the service.
+Is there a download limit?
++
+No. Download as many PDFs as you want, as often as you want. Apply to 100 jobs with 100 tailored resumes — all free.
+How do you make money then?
++
+Right now we're focused on building the best product. We may introduce optional premium features in the future, but the core resume builder will always remain free.
+
+---
+
+# About Flower Resume — Our Mission to Make Job Applications Fair
+URL: https://flower-resume.com/about
+
+The Problem
+## Resume Builders Are Broken
+You spend an hour building your resume, hit download — and you're asked to pay. Or you get a watermarked PDF that signals to recruiters you used a cheap tool.
+Meanwhile, the job market is more competitive than ever. Nearly every large employer screens applications through an Applicant Tracking System, and recruiters search those systems by skill keywords first (76.4% of recruiters in a 2025 Jobscan survey). A generic resume that doesn't use the job's own words often never shows up in those searches.
+Job seekers deserve better tools. Tools that actually work. Tools that shouldn't cost money.
+🌻
+Our Mission
+## Level the Playing Field
+Your ability to get an interview shouldn't depend on whether you can afford a subscription tool.
+🆓
+### Always Free
+No paywalls, no trials, no "freemium" tricks. Every feature available to every user, always.
+🎯
+### Actually Useful
+We built around the #1 job seeker problem — generic resumes. Our JD tailoring solves it directly.
+🔒
+### No Gimmicks
+No watermarks, no fake "free" tiers, no dark patterns. What you see is exactly what you get.
+🚀
+### Built to Ship Fast
+We move fast and ship features users actually ask for. No bloat, no bureaucracy.
+## What We Built
+Flower Resume is an AI-powered resume builder with one killer feature: paste a job description, get a tailored resume in seconds. Your profile is stored once — every application after that takes under 2 minutes. Clean PDF downloads, no watermarks, ATS-optimized. Completely free.
+Try It Free
+
+---
+
+# Best Free Resume Builder 2026 — Top AI Resume Creators Ranked
+URL: https://flower-resume.com/best-free-resume-builder
+
+Quick answer
+Flower Resume is the best free resume builder in 2026 for most job seekers. It combines AI job-description tailoring, unlimited watermark-free PDF downloads and ATS-safe formatting on a free plan, with no paid tier and no credit card required.
+## How We Ranked These Tools
+We evaluated each resume builder on five criteria that directly affect your job search outcomes:
+1
+Real cost to download
+Is the PDF truly free, or does "free" just mean free to build — not download?
+2
+Watermark policy
+Does the downloaded PDF show the tool's branding on your resume?
+3
+ATS compatibility
+Will the resume parse correctly in Applicant Tracking Systems?
+4
+AI tailoring per job
+Can it match your resume to a specific job description automatically?
+5
+Ease of use
+How long does it take to go from blank page to submitted application?
+## The Rankings
+#1 Best Overall
+🌻
+### Flower Resume
+Free AI resume builder with job-description tailoring
+Free forever
+No watermark
+AI per-JD tailoring
+ATS-safe
+No credit card
+Flower Resume does all three things that matter most, for free and without usage tiers: (1) generates a genuinely tailored version of your resume for each job description you paste in, (2) downloads as a clean PDF with zero watermarks, and (3) uses ATS-safe formatting that parses correctly through every major applicant tracking system.
+The core workflow: build your profile once, paste a job description, get a tailored resume in seconds, download the PDF. There are no limits on how many times you do this, and no payment is ever required.
+$0
+Price
+✓
+No watermark
+✓
+AI tailoring
+✓
+ATS-safe
+Best for: Anyone applying to jobs through online portals, ATS systems, or recruiter email who wants tailored, clean resumes without paying.
+Try Flower Resume Free →
+🎨
+### Canva
+#2 — Best design
+Excellent templates and design flexibility. Major caveat: most Canva templates fail ATS parsing due to multi-column layouts and text boxes. Good for creative fields where resumes go directly to humans, not through portals.
+Free plan available
+ATS risk
+No AI tailoring
+Some templates require Pro ($15/mo)
+💼
+### LinkedIn Resume Builder
+#3 — Best starting point
+Converts your LinkedIn profile into a PDF resume. Good as a baseline, but produces a one-size-fits-all document with no per-job tailoring. AI features require LinkedIn Premium at $39.99/month.
+Free basic download
+ATS-safe
+AI costs $39.99/mo
+No per-JD tailoring
+📄
+### Novoresume
+#4 — Best paid option
+Polished templates and a content scoring system. The free plan allows only one resume and adds a watermark to downloads — so you cannot actually use it for free. Full features cost $19.99/month.
+Good templates
+ATS-safe
+Watermark on free
+$19.99/mo for full access
+💳
+### Zety
+#5 — Most deceptive "free"
+Well-known brand with many templates. However, Zety is widely criticized for its misleading pricing — you can build a resume for free but must subscribe to download it. Plans start at ~$17.95/month.
+Many templates
+Cannot download for free
+Watermark on free
+No JD tailoring
+## Side-by-Side Comparison
+Tool |
+Price |
+No watermark free |
+AI per-JD |
+ATS-safe |
+🌻 Flower Resume |
+$0 |
+✅ |
+🎨 Canva |
+$0 / $15/mo |
+✅ |
+✗ |
+⚠️ |
+💼 LinkedIn |
+$0 / $39.99/mo |
+✅ |
+⚠️ paid |
+✅ |
+📄 Novoresume |
+$0 / $19.99/mo |
+✗ |
+✅ |
+💳 Zety |
+~$17.95/mo |
+✗ |
+✅ |
+## Why AI Tailoring Is the Most Important Feature
+The single biggest factor in application response rate is how well your resume matches the specific job description. Research consistently shows tailored resumes get 2–3x more responses than generic ones.
+Most free resume builders help you format your resume once and call it done. Flower Resume solves the actual problem: for every job you apply to, it generates a version of your resume that speaks directly to that role's keywords, requirements, and priorities.
+This is the difference between a resume tool and a job-getting tool.
+## Frequently Asked Questions
+What is the best free resume builder in 2026?
++
+Flower Resume is the best free resume builder in 2026. It offers unlimited resumes, AI tailoring per job description, watermark-free PDF downloads, and ATS-optimized formatting — all completely free with no credit card required.
+Which free resume builders have no watermarks?
++
+Flower Resume provides watermark-free PDF downloads on its free plan. Most other free resume builders — including Zety, Resume.io, and Novoresume — add watermarks on free-tier downloads and require a paid subscription to remove them.
+Is there a truly free AI resume builder?
++
+Yes — Flower Resume is a genuinely free AI resume builder. Paste any job description and the AI tailors your resume to that specific role. There is no paywall, no trial, and no credit card required. LinkedIn Premium offers AI resume features but costs $39.99/month.
+Are Canva resume templates ATS-friendly?
++
+Most Canva resume templates are not ATS-friendly. They use multi-column layouts, text boxes, and graphical elements that ATS systems cannot parse correctly. For job applications submitted through online portals, use an ATS-safe resume builder like Flower Resume instead.
+What should I look for in a free resume builder?
++
+Look for: (1) ATS-compatible formatting — no multi-column layouts or text boxes. (2) No watermark on free downloads. (3) AI tailoring that matches your resume to specific job descriptions. (4) No hidden costs — many "free" builders require payment to download your own resume.
+Try the best free resume builder
+Flower Resume: AI tailoring for every job. Watermark-free PDFs. ATS-safe. $0 forever.
+No credit card. Free account, set up in under a minute.
+Get Started Free
+
+---
+
+# Resume Builder Comparisons (2026) — Flower Resume vs Alternatives
+URL: https://flower-resume.com/compare/
+
+Comparison |
+Their pricing |
+Where they're stronger |
+Main catch |
+Flower Resume vs Teal |
+Free plan; Teal+ $9/week |
+Job tracker & Chrome extension |
+Free plan caps AI writing and shows top 5 keywords |
+Flower Resume vs Rezi |
+Free (1 resume, 3 PDFs); Pro $29/mo; $149 lifetime |
+Detailed ATS scoring, DOCX export, cover letters |
+Free plan: 1 resume, 3 downloads |
+Flower Resume vs Kickresume |
+Free; Premium $8–24/mo |
+Design, 40 templates, cover letters, website |
+AI writer is Premium-only |
+Flower Resume vs Zety |
+Paid plans for downloads |
+Template variety, cover letters |
+Pay to download |
+Flower Resume vs Resume.io |
+Paid plans for downloads |
+Polished templates |
+Pay to download |
+Flower Resume vs Canva |
+Free and paid |
+Visual design freedom |
+Many designs aren't ATS-safe |
+Flower Resume vs LinkedIn |
+AI features need Premium |
+Profile-to-resume convenience |
+AI tools behind Premium |
+Flower Resume vs Novoresume |
+Free and Premium |
+Modern layouts |
+Key features in Premium |
+## What Flower Resume does
+Free AI resume tailoring. Paste a job description, see how well your resume covers its keywords, get a tailored draft from your saved profile, and download unlimited watermark-free PDFs. You need a free account. No credit card.
+## What it doesn't do (yet)
+Cover letters, Word export, a job tracker or browser extension, or human resume review. If you need those, the comparisons above show which tools offer them.
+Newer comparisons (Teal, Rezi, Kickresume) were checked against each vendor's own pricing pages on November 24, 2026. Prices change, so always confirm on the vendor's site.
+
+---
+
+# Flower Resume vs Canva (2026) — Which Is Better for Your Resume?
+URL: https://flower-resume.com/compare/flower-resume-vs-canva
+
+🌻
+Flower Resume
+Free · AI-powered · ATS-optimized
+VS
+🎨
+Canva
+Design tool · Limited resume AI · ATS risk
+Bottom line up front
+Canva is a design tool first — resumes are one of many use cases. It makes visually striking layouts, but most Canva resumes fail ATS parsing because they use text boxes, columns, and graphics that automated systems can't read. Flower Resume is purpose-built for job seekers: ATS-friendly structure, AI tailoring per job description, and free PDF downloads with no watermarks.
+## Feature Comparison
+Feature |
+Flower Resume |
+Canva |
+Price | 100% Free | Free / Pro $15/mo |
+ATS-friendly format | ✅ Always | ⚠️ Often fails |
+AI resume tailoring per JD | ✅ Core feature | ❌ Not available |
+PDF download without watermark | ✅ Always free | ⚠️ Some templates require Pro |
+Resume profile storage | ✅ Unlimited | ✅ In Canva account |
+Design customization | Focused (recruiter-optimized) | ✅ Extensive |
+Multi-column layouts | ❌ (by design — ATS unsafe) | ✅ Available |
+Built specifically for job seekers | ✅ 100% | ❌ General design tool |
+## The Big Problem With Canva Resumes: ATS
+Applicant Tracking Systems (ATS) parse your resume into a plain-text data structure. They extract your name, contact info, work history, education, and skills. When they encounter elements they can't parse — text boxes, tables, headers/footers, images, icons — they either skip those sections or fail entirely.
+Career site The Muse warns that text boxes, tables, columns and images can
+“turn your carefully crafted document into a jumbled, nonsensical mess”
+— The Muse, career advice editors, on ATS and design-heavy resumes · The Muse
+Canva templates are designed to look good, not to be parsed. Most use multi-column layouts, text boxes, and decorative elements that ATS systems misread or ignore. Your beautiful resume becomes a garbled mess in the system — and your application gets filtered out before a human ever sees it.
+Canva resume risks
+- ✗Multi-column layouts confuse ATS parsers
+- ✗Text in shapes/boxes often goes unread
+- ✗Icons replacing text labels lose meaning
+- ✗No JD-matching or keyword optimization
+Flower Resume advantages
+- ✓Single-column, ATS-safe template options
+- ✓AI rewrites content to match each JD
+- ✓Keywords pulled directly from the job posting
+- ✓100% free PDF downloads, no watermarks
+## When Canva Makes Sense
+Canva resumes aren't always wrong. If you're in a creative field — graphic design, photography, art direction — and you're submitting your resume directly to a human reviewer (not through an online application portal), a visually distinctive Canva resume can make a strong impression.
+But for the vast majority of job applications — sent through company portals, LinkedIn, Indeed, or recruiter email — an ATS-safe resume will serve you far better.
+## The Verdict
+Choose Flower Resume if...
+- ✓ You're applying through job portals or ATS systems
+- ✓ You want AI to tailor your resume to each job
+- ✓ You need unlimited free PDF downloads
+- ✓ You want a resume optimized to get interviews
+Choose Canva if...
+- → You're in a purely creative field
+- → You're handing your resume directly to someone
+- → The visual design is the point of the resume itself
+- → You don't mind ATS risk
+Try Flower Resume — Free
+ATS-safe. AI-tailored to every job. Clean PDF downloads. No watermarks, no subscription.
+Get Started Free
+More comparisons
+vs Zety →
+vs Resume.io →
+vs LinkedIn →
+vs Novoresume →
+## Frequently asked questions
+Are Canva resumes ATS-friendly?
++
+Many are not. Canva's popular templates often use columns, text boxes, icons and graphics, which applicant tracking systems can misread. Greenhouse, a widely used ATS, lists columned layouts, text boxes and graphics among the causes of a partial parse.
+When does a Canva resume make sense?
++
+When a person will read it directly: for example, design roles where you email a portfolio-style resume. For online applications through company portals, an ATS-safe layout is the safer choice.
+Does Canva tailor a resume to a job description?
++
+Canva is a general design tool. It doesn't extract keywords from a job description or score your resume against them; Flower Resume does both for free.
+
+---
+
+# Flower Resume vs Kickresume (2026): Templates, AI &amp; Pricing
+URL: https://flower-resume.com/compare/flower-resume-vs-kickresume
+
+🌻
+## Flower Resume
+Free
+VS
+🚀
+## Kickresume
+Free · Premium from $8/mo (yearly)
+Kickresume is a polished, design-led builder with 40 resume templates, matching cover letters, a personal website builder and a mobile app. Its free plan includes unlimited resumes and downloads, but only 4 templates, and the AI Resume & Cover Letter Writer is a Premium feature. Its CEO has been open that he sees the company moving beyond the traditional resume:
+“We think the resume itself won't be here as we know it right now”
+— Peter Duris, co-founder and CEO of Kickresume · NBC New York
+Flower Resume puts AI tailoring at the center and makes it free. You get fewer templates and no cover letters, but you can tailor and download every application without paying.
+Feature |
+🌻 Flower Resume |
+Kickresume |
+Price |
+$0 |
+Free · Premium $24/mo, $54 per quarter, or $96 per year |
+Resumes & downloads on free plan |
+Unlimited, no watermark |
+Unlimited |
+AI writing on free plan |
+✓ Full JD-tailored drafts |
+✗ AI Writer is Premium (free plan has pre-written phrases) |
+Tailoring to a pasted job description |
+✓ Core feature, with job-match score |
+Premium (Resume Tailoring was listed as Beta in independent reviews) |
+Resume templates |
+5, including single-column Classic and Minimal |
+4 free · 40 on Premium |
+Fonts & design control |
+Color choice, section order |
+2 fonts free · 26 on Premium; extensive design options |
+Cover letters |
+✗ |
+✓ 4 templates free · 40 on Premium |
+Personal website |
+✗ |
+✓ 1 template free · 7 on Premium |
+Student discount |
+Free for everyone |
+6 months of Premium free for students |
+## Head-to-head
+### AI tailoring — Flower Resume wins
+On Kickresume's free plan, the AI Resume Writer isn't included. You get templates and pre-written phrases. With Premium, its AI can take the job ad as input, and reviewers describe a Resume Tailoring feature that rewrites your resume for a specific posting. Flower Resume does this for free, and shows a live score for how well your resume covers the posting's keywords.
+### Design and templates — Kickresume wins
+Kickresume has 40 templates on Premium, 26 fonts and far more design control. It's one of the better-looking builders available. Flower Resume offers 5 simpler templates, including single-column Classic and Minimal layouts that are safest for ATS parsing and the quick skim recruiters do. If visual design matters for your field, Kickresume offers much more.
+### Everything beyond the resume — Kickresume wins
+Kickresume also covers cover letters, a personal website, a mobile app and other career tools. Flower Resume does one thing: tailored resumes.
+### Price — Flower Resume wins, unless you're a student
+Kickresume Premium costs $24 for a single month. It's much cheaper on a yearly plan, at $8/month billed $96. Students can get 6 months of Premium free. For everyone else who just needs tailored resumes, Flower Resume costs nothing.
+### Choose Flower Resume if...
+- ✓ You want AI tailoring to each job description without paying
+- ✓ A clean, simple layout is all you need
+- ✓ You care more about content match than visual design
+- ✓ You don't want to commit to a yearly plan
+### Choose Kickresume if...
+- → Visual design and template choice matter in your field
+- → You want matching cover letters and a personal website
+- → You're a student and can get Premium free for 6 months
+- → You'll use it for a year and the $96 annual plan makes sense
+Our verdict: If you want a beautiful, all-in-one career kit and you're a student or happy with a yearly plan, Kickresume is excellent. If you mostly need each resume matched to the job description, Flower Resume gives you that AI tailoring for free, which is the part Kickresume puts behind Premium.
+## Common Questions
+Is Kickresume free?
++
+Kickresume has a free plan with unlimited resumes, cover letters and downloads, 4 resume templates and 2 fonts. The AI Resume & Cover Letter Writer and the full template library require Premium.
+How much is Kickresume Premium?
++
+Kickresume lists Premium at $24 per month on a monthly plan, $18 per month on a quarterly plan ($54 every 3 months), and $8 per month on a yearly plan ($96 per year).
+Does Kickresume tailor resumes to a job description?
++
+Its AI writer takes the job ad you're applying to as input, and independent reviews describe a Resume Tailoring feature (in Beta at the time of review). These AI features are part of Premium.
+Is Kickresume free for students?
++
+Yes. Kickresume offers students 6 months of Premium for free.
+How we compared
+We built this page from Kickresume's published pricing and feature pages and from independent reviews, listed below. Flower Resume is our product, so we have an obvious interest. We've tried to be specific about where Kickresume is the better choice. If anything here is out of date, email hello@flower-resume.com and we'll correct it.
+Sources
+- Kickresume — Pricing
+- NBC New York — From resumes to job offers (Peter Duris interview)
+- Kickresume — Alternative to Rezi (prices verified July 2026, student offer)
+- Enhancv — Kickresume review (Resume Tailoring beta)
+- PitchMeAI — Kickresume free tier review
+- Teal — Kickresume review
+Try Flower Resume Free →
+Free account. No credit card. No watermarks.
+More comparisons (see all):
+vs Teal →
+vs Rezi →
+vs Zety →
+vs Resume.io →
+vs Canva →
+vs LinkedIn →
+vs Novoresume →
+
+---
+
+# Flower Resume vs LinkedIn Resume Builder (2026) — Full Comparison
+URL: https://flower-resume.com/compare/flower-resume-vs-linkedin
+
+🌻
+Flower Resume
+Free · AI tailoring per JD · ATS-safe
+VS
+💼
+LinkedIn Resume
+Profile export · Generic · Premium for AI
+Bottom line up front
+LinkedIn's resume builder essentially converts your LinkedIn profile into a PDF. It's a quick starting point, but it produces a one-size-fits-all document with no per-job tailoring, limited formatting control, and AI features locked behind a Premium subscription ($39.99/mo). Flower Resume is purpose-built to solve the specific problem LinkedIn doesn't: generating a different, tailored version of your resume for each job you apply to — for free.
+## Feature Comparison
+Feature |
+Flower Resume |
+LinkedIn |
+Price | 100% Free | Free (basic) / $39.99/mo Premium |
+AI tailoring per job description | ✅ Core feature, free | ⚠️ Premium only |
+PDF download, no watermark | ✅ Always free | ✅ Free |
+ATS-optimized format | ✅ Always | ✅ Generally |
+Multiple resume versions per job | ✅ Unlimited | ❌ One profile → one resume |
+Keyword matching to JD | ✅ Automatic | ❌ Manual only |
+Resume profile stored separately from social | ✅ Dedicated tool | ❌ Tied to public profile |
+Template variety | Focused (recruiter-tested) | Limited |
+## The Problem With "One Resume for Every Job"
+LinkedIn's resume tool exports your profile. That's useful for a baseline document, but it's the same for every job you apply to. Research consistently shows tailored applications get 2–3x the response rate of generic ones — because recruiters and ATS systems are looking for specific keywords, skills, and experience that match each job description.
+With Flower Resume, you paste the job description and the AI rewrites your experience section to surface the most relevant parts of your background for that specific role. Your base profile stays the same — the tailored version is generated fresh each time.
+## LinkedIn Premium: Is It Worth $39.99/Month?
+LinkedIn Premium includes AI resume features, but at $39.99/month ($480/year) it's primarily a networking and job-seeking platform — not a resume tool. You're paying for InMail credits, profile views, and job insights, with resume AI as a secondary feature.
+LinkedIn itself frames its AI tools as assistants rather than replacements:
+“We wanted to make sure professionals feel in control”
+— Tomer Cohen, Chief Product Officer, LinkedIn, on its generative AI features · TechTarget
+Flower Resume gives you the specific AI resume tailoring capability for free — no upsell, no subscription, no credit card required.
+## The Verdict
+Choose Flower Resume if...
+- ✓ You want AI tailoring for every application, free
+- ✓ You apply to multiple roles with different requirements
+- ✓ You don't want to pay $40/month for one feature
+- ✓ You want a dedicated resume tool, not a social platform
+LinkedIn is better for...
+- → Networking and direct recruiter outreach
+- → "Easy Apply" applications within LinkedIn
+- → Company research before interviews
+- → Building your professional presence online
+Try Flower Resume — Free
+AI tailoring for every job. Free PDF downloads. No subscription required.
+Get Started Free
+More comparisons
+vs Zety →
+vs Resume.io →
+vs Canva →
+vs Novoresume →
+## Frequently asked questions
+Does LinkedIn have an AI resume builder?
++
+LinkedIn Premium includes AI-powered resume feedback: you upload a resume for a specific job and get suggestions, then edit with AI before exporting. It's part of a Premium subscription, not a free standalone builder.
+Can I make a resume from my LinkedIn profile?
++
+Yes, LinkedIn can export your profile as a PDF, but it uses one fixed layout and isn't tailored to a specific job description.
+Is Flower Resume free compared with LinkedIn Premium?
++
+Yes. Flower Resume's job-description tailoring, keyword matching and PDF downloads are free with a free account; LinkedIn's AI resume features require Premium.
+
+---
+
+# Flower Resume vs Novoresume (2026) — Free vs Paid Resume Builder
+URL: https://flower-resume.com/compare/flower-resume-vs-novoresume
+
+🌻
+Flower Resume
+Free forever · AI per-JD tailoring
+VS
+📄
+Novoresume
+$19.99/mo · Polished templates · Limited free
+Bottom line up front
+Novoresume is one of the more polished resume builders on the market — clean templates, good UX, and a content analyzer that scores your resume. The downside: its free plan is heavily restricted (one resume, watermark on download, no custom sections), and the full experience costs $19.99/month. Flower Resume gives you AI tailoring per job description, unlimited resumes, and watermark-free PDFs — completely free. If budget is any consideration, the comparison is clear.
+## Feature Comparison
+Feature |
+Flower Resume |
+Novoresume |
+Price | 100% Free | Free (limited) / $19.99/mo |
+Watermark-free PDF | ✅ Always | ❌ Paid only |
+AI tailoring per job description | ✅ Core feature, free | Limited AI credits (2/month free, 40/month Pro) |
+Number of resumes (free) | Unlimited | 1 resume only |
+ATS-friendly format | ✅ Always | ✅ Yes |
+Content analyzer / scoring | ✅ Via AI tailoring | ✅ Built-in (paid) |
+Template quality | Clean, recruiter-tested | ✅ Polished, varied |
+Cover letter builder | Coming soon | ✅ Paid |
+No credit card required | ✅ Never | ✅ For free tier |
+## The Novoresume Paywall Problem
+Novoresume's free plan is intentionally limited to drive upgrades. You get one resume with a Novoresume watermark on the downloaded PDF — which means you can't actually use it to apply to jobs for free. The things you actually need (watermark-free downloads, multiple resumes, custom sections) require the $19.99/month plan.
+Novoresume's own pricing page confirms that free-plan PDFs carry
+“Novoresume branding”
+— Novoresume, pricing page, describing the free Basic plan · Novoresume pricing (checked Nov 24, 2026)
+Over 3 months of job searching, that's $60. Over 6 months, $120. This is a meaningful cost when you're between jobs or searching while employed.
+Flower Resume was built on a different philosophy: the free plan IS the product. Unlimited resumes, unlimited tailoring, unlimited PDF downloads — no watermarks, no paywalls, no subscription.
+## Where Novoresume Is Stronger
+Novoresume has a more established template library with more visual variety. If you want fine-grained control over the look of your resume and are willing to pay for it, Novoresume delivers a premium design experience.
+Their content scoring feature also provides detailed feedback on each section — helpful if you want guidance on improving your resume beyond AI tailoring.
+## The Verdict
+Choose Flower Resume if...
+- ✓ You want AI tailoring for every job, free
+- ✓ You don't want to pay $20/month for basics
+- ✓ You need unlimited resumes and downloads
+- ✓ You want watermark-free PDFs without paying
+Novoresume might suit you if...
+- → You value premium visual design
+- → You want a detailed content scoring system
+- → You're willing to pay for the full feature set
+- → You want a combined resume + cover letter tool
+Try Flower Resume — Free
+AI tailoring per job. Unlimited resumes. Watermark-free PDFs. $0/month, forever.
+Get Started Free
+More comparisons
+vs Zety →
+vs Resume.io →
+vs Canva →
+vs LinkedIn →
+## Frequently asked questions
+Is Novoresume free?
++
+Novoresume has a free Basic plan with one one-page resume, 8 templates and 2 AI credits a month. Free PDFs include Novoresume branding; the Pro plan removes it and adds more templates, AI credits and a cover letter builder.
+Does the Novoresume free plan have a watermark?
++
+Yes. Novoresume's pricing page lists "Novoresume branding" on free-plan PDFs. Flower Resume's PDFs have no watermark on any plan.
+Which is better for tailoring to a job description?
++
+Flower Resume is built around it: paste a job description and it extracts the keywords, scores your resume against them and drafts a tailored version, for free. Novoresume offers AI writing credits, limited on its free plan.
+
+---
+
+# Flower Resume vs Resume.io (2026): Which Free Builder Wins?
+URL: https://flower-resume.com/compare/flower-resume-vs-resumeio
+
+🌻
+## Flower Resume
+Free Forever
+VS
+📄
+## Resume.io
+$2.95–$9.95/mo
+Resume.io is one of the most popular resume builders, known for its clean UI and polished templates. But like most competitors, it gates PDF downloads behind a subscription. Flower Resume is completely free — and adds AI job description tailoring that Resume.io doesn't offer.
+“there needs to be more transparency and support for customers”
+— Resume Genius, in its Resume.io review, on the 7-day trial that auto-renews · Resume Genius
+Feature |
+🌻 Flower Resume |
+Resume.io |
+Price |
+$0 — Free Forever |
+$2.95–$9.95/mo |
+Free PDF Download |
+✓ Unlimited |
+✗ Paid only |
+No Watermarks |
+✓ Always clean |
+✗ Free watermarked |
+AI JD Tailoring |
+✓ Core feature |
+✗ Not available |
+ATS Friendly |
+✓ Yes |
+Templates |
+Clean, professional |
+35+ templates |
+Credit Card Required |
+✓ Never |
+✗ For download |
+### Pricing — Flower Resume wins
+Resume.io is one of the cheaper paid options at $2.95/month billed annually, but it's still a subscription you don't need. Free users get watermarked or blurred PDFs. Flower Resume costs nothing — ever.
+### Template Variety — Resume.io wins
+Resume.io has 35+ visually polished templates. If wide template variety is your priority, Resume.io has more. Flower Resume's output is clean and professional, optimized for ATS parsing.
+### AI Tailoring — Flower Resume wins (by default)
+Resume.io doesn't have job description tailoring. Flower Resume's JD paste feature automatically aligns your resume with the specific role — a fundamental difference that directly impacts your interview rate.
+### PDF Quality — Flower Resume wins (at free tier)
+Flower Resume's free PDF output is clean and watermark-free. Resume.io's free PDFs are watermarked. At Resume.io's paid tier, quality is comparable — but Flower Resume gives you that quality for free.
+### Use Flower Resume if...
+- ✓ You want free, clean PDF downloads
+- ✓ You apply to multiple jobs at once
+- ✓ Keyword matching and ATS matters
+- ✓ You don't want to give a credit card
+### Use Resume.io if...
+- → You want 35+ visual template options
+- → You also need a cover letter tool
+- → You're okay with ~$3–10/month
+- → Visual design is your top priority
+For job seekers focused on getting interviews — not just having a pretty resume — Flower Resume's JD tailoring and free downloads make it the stronger practical choice.
+## Common Questions
+Is Resume.io actually free?
++
+Resume.io lets you create a resume for free but downloading a clean PDF requires a paid plan. Free users see a watermarked version. Flower Resume has no such restriction.
+Does Resume.io tailor resumes to job descriptions?
++
+No. Resume.io is a resume formatting tool — you write the content and it makes it look good. Flower Resume goes further: paste a JD and the AI rewrites your resume to match that specific role.
+Can I cancel Resume.io easily?
++
+Yes, though many users report the process being confusing. With Flower Resume there's nothing to cancel — there's no subscription in the first place.
+Try Flower Resume Free →
+No credit card. No watermarks. No limits.
+Also compare:
+Flower Resume vs Zety →
+
+---
+
+# Flower Resume vs Rezi (2026): Free Plans, ATS Scoring &amp; Price
+URL: https://flower-resume.com/compare/flower-resume-vs-rezi
+
+🌻
+## Flower Resume
+Free
+VS
+🎯
+## Rezi
+Free · Pro $29/mo · $149 lifetime
+Rezi is one of the most ATS-focused builders available. It has a 23-metric Rezi Score, keyword targeting, an AI writer and a conversational AI agent, and it exports to PDF, Word and Google Drive. Its free plan is tight: one resume and three PDF downloads.
+Interestingly, Rezi's founder pushes back on the "ATS-beating" label often attached to his own product. He says Rezi resumes strictly follow best practices, and that
+“some people incorrectly consider this as an ATS optimized resume.”
+— Jacob Jacquet, founder and CEO of Rezi · Product Hunt
+Flower Resume covers the core loop, which is paste a job description, see your keyword match and get a tailored draft, with unlimited resumes and downloads at no cost. Rezi offers more depth (scoring detail, cover letters, Word export, human review) if you're willing to pay.
+Feature |
+🌻 Flower Resume |
+Rezi |
+Price |
+$0 |
+Free · Pro $29/month · Lifetime $149 one-time |
+Resumes on free plan |
+Unlimited |
+1 |
+PDF downloads on free plan |
+Unlimited, no watermark |
+3 |
+Keyword targeting from a job description |
+Full, on every resume |
+Limited on free; full on Pro |
+Resume scoring |
+Job-match score against the posting's keywords |
+Rezi Score, 23 metrics (full on Pro) |
+Templates |
+5, including single-column Classic and Minimal |
+Standard Format on free; all templates on Pro |
+Export formats |
+PDF |
+PDF, DOCX, Google Drive |
+Cover letters |
+✗ Not available |
+✓ Unlimited, even on free |
+Human expert review |
+✗ |
+1/month on Pro (not included in Lifetime) |
+Money-back guarantee |
+n/a, free |
+30 days on paid plans |
+## Head-to-head
+### Free plan — Flower Resume wins
+Rezi's free plan gives you one resume and three PDF downloads. That's enough to try the product, but not to tailor a resume for each application. Flower Resume has no caps on resumes or downloads, and tailoring isn't limited by plan.
+### ATS analysis depth — Rezi wins
+Rezi Score checks 23 metrics covering content, format and keyword targeting, and gives line-by-line feedback. Flower Resume's job-match score is narrower. It measures how well your resume covers the keywords in a specific posting, required and nice-to-have, and updates live as you edit. That's the part recruiters actually search on, but Rezi gives more detailed feedback overall.
+### Exports and extras — Rezi wins
+Rezi exports to Word and Google Drive as well as PDF. It also writes unlimited cover letters, even on the free plan, and includes AI interview practice. Pro adds a monthly human review. Flower Resume exports PDF only and doesn't do cover letters.
+### Long-term cost — Depends on your search
+If you job-hunt often, Rezi's $149 Lifetime plan is good value compared with $29/month. Note that Lifetime excludes the monthly expert review. If you don't want to pay at all, Flower Resume covers tailoring and unlimited PDFs for free.
+### Choose Flower Resume if...
+- ✓ You want to tailor a separate resume for every application
+- ✓ You need more than 3 downloads without paying
+- ✓ PDF is all you need
+- ✓ You want job-description keyword matching without a subscription
+### Choose Rezi if...
+- → You want the most detailed ATS scoring and feedback
+- → You need Word or Google Drive export
+- → You want cover letters and interview practice in the same tool
+- → A one-time $149 payment suits you better than ongoing tools
+Our verdict: For most people tailoring many applications on a budget, Flower Resume covers the core workflow for free. If you want deep ATS scoring, Word export and cover letters, Rezi Pro or Lifetime is a serious, well-built product, and the Lifetime plan is good value for frequent job-seekers.
+## Common Questions
+Is Rezi free?
++
+Rezi has a free plan with 1 resume, 3 PDF downloads, 1 AI interview, limited keyword targeting and Rezi Score, and unlimited cover letters. Pro costs $29/month and Lifetime is a one-time $149.
+What is the Rezi Score?
++
+Rezi's resume score, which checks 23 metrics across content, format and keyword targeting. The full score is part of Pro and Lifetime.
+Can I download my Flower Resume as a Word file?
++
+Not currently. Flower Resume exports clean, watermark-free PDFs. If an employer specifically requires .docx, Rezi supports it.
+Does Rezi Lifetime include the expert review?
++
+No. According to Rezi's pricing FAQ, Lifetime excludes the free monthly expert review included with Pro, though you can buy a review separately.
+How we compared
+We built this page from Rezi's published pricing and feature pages and from independent reviews, listed below. Flower Resume is our product, so we have an obvious interest. We've tried to be specific about where Rezi is the better choice. If anything here is out of date, email hello@flower-resume.com and we'll correct it.
+Sources
+- Rezi — Pricing
+- Product Hunt — Rezi Resume MCP launch (Jacob Jacquet)
+- iTechGuides — Rezi review (export formats, facts checked Sept 2026)
+- Freedom251 — Rezi plan limits
+- Teal — Rezi review & user feedback
+- Rezi — AI Resume Agent
+Try Flower Resume Free →
+Free account. No credit card. No watermarks.
+More comparisons (see all):
+vs Teal →
+vs Kickresume →
+vs Zety →
+vs Resume.io →
+vs Canva →
+vs LinkedIn →
+vs Novoresume →
+
+---
+
+# Flower Resume vs Teal (2026): Free AI Resume Tailoring Compared
+URL: https://flower-resume.com/compare/flower-resume-vs-teal
+
+🌻
+## Flower Resume
+Free
+VS
+🦚
+## Teal
+Free · Teal+ $9/week
+Teal is a job-search workspace: a resume builder, a job tracker and a well-reviewed Chrome extension for saving postings from job boards. Its free plan is genuinely useful. It includes unlimited resumes, unlimited PDF downloads and unlimited job tracking. The limits fall on AI and keyword matching, which is where Flower Resume focuses.
+“Think of it as your job search co-pilot”
+— David Fano, founder and CEO of Teal · Refresh Miami
+If you mainly want a resume that matches each job description, Flower Resume does that with no AI caps tied to a paid tier. If you want to manage a large search in one place, Teal is the stronger tool.
+Feature |
+🌻 Flower Resume |
+Teal |
+Price |
+$0 |
+Free; Teal+ is $9/week (about $29 per 30 days or $78 per 90 days, from Teal's per-day pricing) |
+Resumes on free plan |
+Unlimited |
+PDF downloads on free plan |
+Unlimited, no watermark |
+Unlimited |
+Keyword matching to a job description |
+All extracted keywords, with required vs nice-to-have |
+Top 5 keywords on free; unlimited on Teal+ |
+AI writing on free plan |
+Full JD-tailored drafts, section regeneration, custom prompts |
+Limited: 5 achievements, 2 summaries, 1 cover letter |
+Cover letters |
+✗ Not available |
+✓ (1 AI letter free, unlimited on Teal+) |
+Job tracker |
+✗ Not the focus |
+✓ Unlimited jobs, contacts, follow-ups |
+Chrome extension |
+✗ |
+✓ Saves jobs from boards like Indeed and Glassdoor |
+Templates |
+5, including single-column Classic and Minimal |
+Multiple (reviewers describe them as minimal) |
+Ads |
+None |
+Shown on free plan; removed on Teal+ |
+## Head-to-head
+### Tailoring a resume to one posting — Flower Resume wins
+This is what Flower Resume is built for. Paste a job description and it extracts every required and nice-to-have keyword, scores your resume against them live as you edit, and drafts a tailored version from your saved profile. There's no paid tier to unlock.
+Teal also matches resumes to postings, but its free plan shows only the top 5 keywords. Unlimited keyword matching and unlimited AI writing are part of Teal+.
+### Running the whole job search — Teal wins
+Teal's job tracker is its standout feature. You get unlimited saved jobs, contacts linked to each job, follow-up dates and stage checklists. Its Chrome extension, which reviewers consistently praise, captures postings directly from job boards. Flower Resume has nothing comparable. It's a resume tool, not a CRM for your search.
+### Cost if you need more than the free plan — Flower Resume wins
+Teal+ is priced weekly, at $9/week, with cheaper per-day rates if you pay for 30 or 90 days. A long search can add up. Flower Resume doesn't have a paid tier. We apply an hourly fair-use limit on AI requests to prevent abuse, but no feature sits behind a paywall.
+### Cover letters — Teal wins
+Teal can draft cover letters (one on the free plan, unlimited on Teal+). Flower Resume doesn't write cover letters today. Jobscan's 2025 data linked cover letters to a 3.4x higher interview rate, so if a role asks for one, that matters.
+### Choose Flower Resume if...
+- ✓ Your priority is matching each resume closely to the job description
+- ✓ You want unlimited AI tailoring without a weekly subscription
+- ✓ You apply to a moderate number of roles and track them elsewhere
+- ✓ You want no ads
+### Choose Teal if...
+- → You're managing dozens of applications and want a tracker and Chrome extension
+- → You need AI cover letters
+- → You like having jobs, contacts and resume versions in one workspace
+- → You're happy to pay $9/week while you search
+Our verdict: Use Flower Resume to write each tailored resume, and use Teal's free tracker if you need pipeline management. They work well together. If you only want one tool and your search is large and organized, Teal's workspace is hard to beat. If you mainly need better-matched resumes, Flower Resume gives you more tailoring for free.
+## Common Questions
+Is Teal free?
++
+Yes. Teal's free plan includes unlimited resumes, unlimited PDF downloads and unlimited job tracking. AI writing is capped (5 achievements, 2 summaries, 1 cover letter) and keyword matching shows the top 5 keywords. Teal+ removes the limits for $9/week.
+How much does Teal+ cost?
++
+Teal lists Teal+ at $9 per week. Its per-day rates work out to about $28.80 for a 30-day period and about $78 for a 90-day period. Check Teal's pricing page for current totals.
+Does Flower Resume have a job tracker like Teal?
++
+No. Flower Resume focuses on tailoring and exporting resumes. If you want a tracker, you can use Teal's free tracker or a spreadsheet alongside it.
+Which is better for ATS keyword matching?
++
+On the free plans, Flower Resume shows all the keywords it extracts from the job description, marked required or nice-to-have, while Teal Free shows the top 5. With Teal+, both offer full keyword matching.
+How we compared
+We built this page from Teal's published pricing and feature pages and from independent reviews, listed below. Flower Resume is our product, so we have an obvious interest. We've tried to be specific about where Teal is the better choice. If anything here is out of date, email hello@flower-resume.com and we'll correct it.
+Sources
+- Teal — Pricing
+- Refresh Miami — Teal founder interview
+- Teal — Teal vs Huntr (free plan details)
+- Teal — Chrome Web Store listing
+- Position Is Everything — Teal review
+- Enhancv — Teal review
+- Jobscan — The State of the Job Search in 2025
+Try Flower Resume Free →
+Free account. No credit card. No watermarks.
+More comparisons (see all):
+vs Rezi →
+vs Kickresume →
+vs Zety →
+vs Resume.io →
+vs Canva →
+vs LinkedIn →
+vs Novoresume →
+
+---
+
+# Flower Resume vs Zety (2026): Free vs Paid Resume Builder
+URL: https://flower-resume.com/compare/flower-resume-vs-zety
+
+🌻
+## Flower Resume
+Free Forever
+VS
+📝
+## Zety
+$5.99–$23.70/mo
+Zety is a well-known resume builder with polished templates. But its free tier restricts PDF downloads. Flower Resume offers everything you actually need for free — plus one feature Zety doesn't have at all: AI job description tailoring.
+“build a beautiful resume for free and then charge you to download it”
+— Geekflare, 2026 resume builder review, on the pattern to watch for · Geekflare, June 2026
+Feature |
+🌻 Flower Resume |
+Zety |
+Price |
+$0 — Free Forever |
+$5.99–$23.70/mo |
+Free PDF Download |
+✓ Unlimited |
+✗ Paid only |
+No Watermarks |
+✓ Always clean |
+✗ Free watermarked |
+AI JD Tailoring |
+✓ Core feature |
+✗ Not available |
+ATS Friendly |
+✓ Yes |
+Unlimited Resumes |
+✓ Yes |
+✗ Restricted free |
+Credit Card Required |
+✓ Never |
+✗ For download |
+### Pricing — Flower Resume wins
+Zety's model is "free to build, pay to download." Plans run from ~$5.99–$23.70/month. Flower Resume charges nothing — ever. No trial, no expiry, no credit card.
+### Job Description Tailoring — Flower Resume wins
+Flower Resume's core feature: paste a JD, get a tailored resume. Zety offers generic AI writing suggestions — not tied to any specific job. For competitive roles where keyword matching matters, the difference is significant.
+### Templates & Design — Zety wins
+Zety has 18+ professionally designed templates. Flower Resume focuses on clean, ATS-safe formatting over visual variety. If design is your top priority and you're willing to pay, Zety has an edge here.
+### PDF Quality — Flower Resume wins (for the price)
+Flower Resume PDFs are clean and watermark-free — for free. Zety's free PDFs are branded. At Zety's paid tier the quality is comparable, but Flower Resume's free output matches Zety's paid output.
+### Use Flower Resume if...
+- ✓ You want zero cost, no surprises
+- ✓ You apply to many jobs at once
+- ✓ You want clean PDFs without watermarks
+- ✓ ATS and keyword matching matters to you
+### Use Zety if...
+- → You want maximum template variety
+- → You need a cover letter builder too
+- → You're okay paying $6–24/month
+- → Design aesthetics are a top priority
+For most job seekers — especially those applying to multiple roles — Flower Resume is the better choice. It does more of what matters for exactly $0.
+## Common Questions
+Is Zety really free?
++
+Zety lets you build a resume for free but requires a paid subscription to download without a watermark. Flower Resume has no such restriction — unlimited clean PDFs for free.
+Does Zety have AI tailoring like Flower Resume?
++
+Zety has generic AI suggestions but no JD-based tailoring. Flower Resume's core feature is pasting the actual job description and the AI rewrites your resume to match that specific role's keywords and requirements.
+Which is better for ATS?
++
+Both produce ATS-friendly formatting. Flower Resume adds the advantage of keyword-matching to the specific job description — which is the most impactful ATS optimization you can make.
+Try Flower Resume Free →
+No credit card. No watermarks. No limits.
+Also compare:
+Flower Resume vs Resume.io →
+
+---
+
+# Resume Tips & Career Advice — Flower Resume Blog
+URL: https://flower-resume.com/blog/
+
+🔍
+Research
+##
+How Recruiters Actually Read Your Resume: What the Research Says
+The 7.4-second skim, how ATS filtering really works, title matching, and AI-written resumes, from the studies themselves.
+November 2026 · 11 min read
+Read →
+📏
+Resume Writing
+##
+How Long Should a Resume Be in 2026?
+Recruiters say they prefer two pages. Real interview data says shorter wins early on. Here's how to decide.
+November 2026 · 9 min read
+Read →
+🤝
+AI & Job Search
+##
+How to Use AI on Your Resume Without Sounding Like AI
+80% of hiring managers say they can spot AI-written resumes. A 7-step workflow to keep AI's speed without the sameness.
+November 2026 · 9 min read
+Read →
+📋
+Resume Strategy
+##
+How to Tailor Your Resume for Any Job Description (Step-by-Step)
+Most job seekers send the same resume to every job. Here's why that kills your chances — and exactly how to fix it.
+June 2026 · 8 min read
+Read →
+🤖
+ATS Optimization
+##
+ATS Resume Tips: How to Beat the Bots and Get Your Resume Seen
+Recruiters search ATS databases by keyword before they read anything. Here's how to get past every filter.
+May 2026 · 10 min read
+Read →
+📝
+Resume Writing
+##
+How to Write Resume Bullet Points That Get You Interviews
+The simple formula for writing achievement-driven bullets that make recruiters stop scrolling.
+July 2026 · 9 min read
+Read →
+💼
+Job Search
+##
+The 1-Hour Weekly Job Search System That Gets Results
+This systematic approach gets you more responses with less effort.
+July 2026 · 8 min read
+Read →
+🔄
+Career Change
+##
+How to Write a Resume When Switching Careers
+How to position your transferable skills and make career changers irresistible on paper.
+July 2026 · 10 min read
+Read →
+🎓
+Entry Level
+##
+How to Write a Resume With No Experience (2026 Guide)
+New grads and career starters: how to build a compelling resume from scratch.
+July 2026 · 9 min read
+Read →
+
+---
+
+# ATS Resume Tips: How to Beat the Bots (2026) | Flower Resume
+URL: https://flower-resume.com/blog/ats-resume-tips
+
+FreeUnlimited AI Resume Builder — Paste JD & Download PDF
+Home
+Blog
+Pricing
+About
+Get Started
+✕
+← Back to Blog
+ATS Optimization
+#
+ATS Resume Tips: How to Beat the Bots and Get Your Resume Seen (2026)
+May 20, 2026
+·
+Updated Nov 24, 2026
+·
+10 min read
+·
+By Flower Resume
+Key takeaways
+- An ATS stores applications in a searchable database. Recruiters filter it, most often by skill keywords (76.4% filter by skills first, per a 2025 Jobscan survey).
+- Use one column, standard section headings and a standard font. Avoid tables, text boxes, graphics, and contact details in headers or footers.
+- Use the job description's exact terms for skills you really have, in both your bullets and your skills list, and spell out acronyms once.
+- Tailor every application: a resume matched to one posting is not matched to the next.
+You spent hours crafting the perfect resume. You hit apply. And then — silence.
+In many cases, the problem isn't your qualifications. It's that your resume never made it to a human. An Applicant Tracking System (ATS) stored it, and when the recruiter searched for the skills they needed, your resume didn't use the same words, so it never came up.
+This guide explains exactly how ATS works and what you can do to pass every filter.
+## What Is an ATS and Why Does It Matter?
+An Applicant Tracking System is software that manages job applications. When you click "Apply," your resume is typically parsed by an ATS first — it extracts your information into a searchable profile, and many systems also rank applicants against the job's requirements.
+According to Jobscan's annual analysis, 97.8% of Fortune 500 companies used a detectable ATS in 2025. If you're applying online, there's a very good chance an ATS is screening you before any human sees your name.
+## The 9 ATS Optimization Rules
+### 1. Use a Simple, Clean Format
+ATS software can't read fancy designs. Avoid:
+You don't have to take our word for these rules. Greenhouse, one of the most widely used ATS platforms, lists the formatting problems that cause a partial parse in its own help center, including:
+“Resumes with the name and contact information in the header, footer, or text box”
+— Greenhouse, ATS vendor, help-center guidance on unsuccessful resume parsing · Greenhouse Support
+- Tables and multi-column layouts
+- Text boxes and graphics
+- Headers and footers with important content
+- Icons and images
+### 2. Use Standard Section Headings
+Stick to: "Work Experience," "Education," "Skills," "Summary." Creative section names confuse ATS parsing.
+### 3. Submit as a Simple PDF
+Most modern ATS handle PDFs well. Avoid Canva, Google Slides, or InDesign-exported PDFs — these often have invisible text layers that ATS can't parse correctly.
+### 4. Include Keywords from the Job Description
+This is the most important optimization. Recruiters search and rank candidates in the ATS by keyword: in a 2025 Jobscan survey, 76.4% said they filter by skill keywords first. Go through the job posting and identify required skills, soft skills, job title, and industry-specific terms.
+Include every relevant keyword you actually have experience with — using the exact same spelling and capitalization as the job description.
+### 5. Include Keywords in Bullets, Not Just Skills
+Many ATS systems weight keywords higher when they appear in experience bullets (with evidence of use) vs. a standalone skills list. Include key skills in both sections.
+### 6. Use Full Versions and Abbreviations
+Write "Search Engine Optimization (SEO)" — this covers both exact-match variations. Do this for any technical term or acronym.
+### 7. Use Standard Fonts
+Stick to: Arial, Calibri, Georgia, Helvetica, Times New Roman. Decorative fonts can cause parsing errors.
+### 8. Include Dates in Standard Format
+Use "January 2023 – March 2025" or "Jan 2023 – Mar 2025." Don't write just years — this can cause ATS to miscalculate your total experience.
+### 9. Tailor for Each Application
+A resume optimized for one job description won't be optimized for another. This is the core argument for using Flower Resume — it auto-tailors your resume to each job description without manual work.
+## ATS-Friendly Checklist
+- ✓ Single-column layout, no tables or text boxes
+- ✓ Standard section headings
+- ✓ Standard fonts
+- ✓ No headers/footers with important content
+- ✓ Keywords from the job description included naturally
+- ✓ Both spelled-out and abbreviated versions of key terms
+- ✓ Consistent "Month Year" date format
+- ✓ Tailored to the specific job description
+Flower Resume generates ATS-optimized resumes automatically — every resume follows these rules by default. Try it free.
+Read our guide on how to tailor your resume for any job description to master the content side once you've nailed the format.
+## Frequently asked questions
+Does an ATS automatically reject resumes?
++
+Usually not on its own. Most applicant tracking systems store and organize applications, and recruiters then search and filter them, most often by skill keywords. Knock-out questions (such as work authorization) can screen people out automatically. The practical risk is that a resume without the job's keywords never shows up in the recruiter's search.
+Is a PDF or a Word document better for an ATS?
++
+Most modern applicant tracking systems read a text-based PDF well. Avoid PDFs exported from design tools such as Canva or InDesign, which can store text in ways parsers misread, and send a Word file if the posting asks for one.
+Can an ATS read a two-column resume?
++
+Often not reliably. Greenhouse, a widely used ATS, lists columned layouts, tables, text boxes and graphics among the formatting that can cause a partial parse. A single-column layout with standard headings is the safest choice.
+How many keywords should a resume include?
++
+Include every required and preferred skill from the posting that you genuinely have, using the posting's exact spelling, and back the important ones up in your experience bullets. Don't add keywords you can't support in an interview.
+Build an ATS-ready resume right now. Free, no limits, no watermarks.
+Get Started Free
+
+---
+
+# How to Write a Resume When Switching Careers (2026 Guide)
+URL: https://flower-resume.com/blog/career-change-resume
+
+Key takeaways
+- Map every requirement in the new job to something you've already done; that overlap is your resume.
+- Open with a summary that names the transition, your most relevant skills and the role you're targeting.
+- Rewrite past bullets through the new field's lens, and move a focused skills section near the top.
+- Use reverse-chronological order, not a functional resume, and close gaps with certifications, courses and projects.
+Career changers have one specific resume problem: everything on your resume screams "wrong industry." The job title, the company names, the jargon — all of it signals "not what we were looking for."
+The good news: your experience isn't the problem. The framing is. Here's how to rewrite your resume so hiring managers see what you actually bring, not just what you've done before.
+## Step 1 — Audit Your Transferable Skills
+Before you write a word, map your existing skills to the new role. Go through the job description and mark every requirement. Then, for each one, ask: "Have I done something that proves I can do this?"
+Common transferable skills that travel across industries:
+Project managementData analysis
+Stakeholder communicationBudget ownership
+Team leadershipProcess improvement
+Customer relationship managementWriting & content
+Sales & negotiationProblem-solving
+The goal isn't to pretend you have experience you don't. It's to surface the genuine overlap between what you've done and what the new role needs.
+## Step 2 — Add a Professional Summary
+Career changers need a summary at the top of the resume more than anyone else. This is your chance to tell the story before the recruiter starts looking for reasons to say no.
+A strong career change summary does three things:
+- Acknowledges the transition (briefly and confidently)
+- Names the most relevant skills you're bringing over
+- States clearly what you're aiming for in this role
+Weak summary (no bridge)
+"Experienced teacher looking to transition into project management. Fast learner, good communicator."
+Strong summary (builds the bridge)
+"Former high school department head with 7 years of experience managing curriculum development projects, coordinating cross-functional teams, and tracking outcomes data for 600+ students. Now channeling those same planning and stakeholder management skills into a project management career, with a PMP certification earned in March 2026."
+## Step 3 — Reframe Your Work Experience
+You don't need to delete your old experience — you need to rewrite it through the lens of the new role. Pull out every project, responsibility, or outcome that maps to your target field, and lead with those.
+For each past role, ask: What did I do that overlaps with what my target job requires? Write bullets that emphasize those things. Bury or cut bullets that have zero relevance.
+Marketing manager applying for a UX researcher role — original bullet
+Managed paid ad campaigns across Google and Meta with a $200K/month budget.
+Reframed for UX research relevance
+Conducted A/B testing and user behavior analysis across 12 ad campaigns, synthesizing findings into actionable creative briefs that improved conversion rates by 22%.
+## Step 4 — Lead With a Skills Section
+For career changers, moving the Skills section near the top (just below the summary) helps recruiters immediately see your relevant capabilities before they dig into a work history that might look confusing.
+List only the skills that are directly relevant to the target role. This is not the place to list everything you've ever done. Keep it focused: 8–12 specific, targeted skills.
+## Step 5 — Fill Gaps With Coursework and Projects
+If there's a meaningful skills gap between your background and the new field, show you've done something about it:
+This matches the leading research on career change. London Business School professor Herminia Ibarra, who studied professionals in transition, argues that action has to come before certainty:
+“Doing comes first, knowing second”
+— Herminia Ibarra, Professor of Organisational Behaviour, London Business School, in Working Identity · The Globe and Mail
+- Certifications — List them with the issuer and date (Google Project Management Certificate, 2026)
+- Online courses — Coursera, LinkedIn Learning, Udemy certificates relevant to the new field
+- Projects — Freelance work, side projects, volunteer roles that gave you hands-on experience in the new area
+- Portfolio — If the new field is creative or technical, link to a GitHub repo, Behance, or portfolio site
+## Should You Use a Functional Resume Format?
+The internet will tell you career changers should use a "functional resume" (skills-based, with work history buried). Don't.
+Recruiters and ATS systems hate functional resumes. They look evasive and make it hard to understand your career timeline. Use a reverse-chronological format — just restructure what you emphasize within each role, as described above.
+## Tailor Every Single Application
+Career changers cannot send the same resume to 100 jobs. You're already at a disadvantage compared to people with direct experience — the only way to compensate is to show you've done the work to understand what each specific role needs and that your background maps directly to it.
+Read every job description carefully. Adjust your summary, reorder your skills, and swap in the most relevant bullets for each application. It takes longer, but the response rate difference is significant.
+Tailor your resume in 2 minutes
+Flower Resume was built for exactly this situation. Paste a job description and your existing profile — the AI rewrites your experience section to emphasize what matters for that role. Saves hours of manual rewriting per application.
+Try it free →
+## Frequently asked questions
+Should a career changer use a functional resume?
++
+Generally no. Functional resumes hide your timeline, which recruiters distrust. Use reverse-chronological order and change what you emphasize within each role.
+How do I explain a career change on my resume?
++
+In a 2–3 line summary at the top: name the move briefly and confidently, list the transferable skills that matter most for the new role, and state the role you're aiming for.
+What are transferable skills?
++
+Skills that carry across industries, such as project management, data analysis, stakeholder communication, budget ownership, team leadership and process improvement. Show each one with a result, not just a label.
+Do certifications help a career change resume?
++
+Yes, when they close a real gap. List the issuer and date, and pair them with a project or volunteer role where you used the skill.
+
+---
+
+# How Long Should a Resume Be in 2026? What the Data Says
+URL: https://flower-resume.com/blog/how-long-should-a-resume-be
+
+"Keep it to one page" is probably the most repeated resume rule there is. It's also one of the most disputed. The two best-known pieces of data on resume length point in opposite directions, and both are worth understanding before you start deleting your best work or padding a thin one.
+Quick answer
+Your situation | Recommended length |
+Student, new grad, or under ~3 years of experience | 1 page |
+3–10 years, one career track | 1 page if it fits naturally; 2 pages if every line is relevant |
+10+ years, management, or technical depth | 2 pages (rarely more) |
+U.S. federal jobs (USAJOBS) | 2 pages maximum, enforced since Sept 2025 |
+UK CV | 2 sides of A4 is standard; 1 is fine for graduates |
+Academic CV / research roles | As long as your publications and grants require |
+## The case for two pages: what recruiters say they prefer
+In late 2018, resume-writing service ResumeGo ran a hiring simulation with 482 recruiters, hiring managers, HR professionals and executives. Each screened resumes for a range of roles. Half the resumes were one page (350–500 words) and half were two pages (700–850 words), for candidates with similar qualifications.
+Of the 7,712 resumes participants chose to move forward, 5,375 were two pages long, which ResumeGo reports as recruiters being 2.3 times as likely to prefer the longer version. The preference grew with seniority:
+Job level | Preference for 2-page over 1-page |
+Entry level | 1.4× |
+Mid level | 2.6× |
+Senior / managerial | 2.9× |
+Participants also spent about 2 minutes 24 seconds on one-page resumes and 4 minutes 5 seconds on two-page ones. More text meant more reading time, not less patience.
+## The case for one page: what actually gets interviews
+Jobscan looked at the question differently. Instead of asking recruiters what they prefer, it compared resume length against real interview rates from its own application data, and published the results in September 2026. Splitting resumes into four groups (quartiles) from shortest to longest:
+- Entry level: the shortest quartile had a 17.9% interview rate; the longest had 2.8%. That's roughly six times better for the shortest resumes.
+- Mid-career: the shortest quartile actually did worst (3.8%). The second quartile did best (9.8%), and rates fell again as resumes got longer.
+- Senior: the shortest quartile looked strong (15.6%), but Jobscan notes the sample was too small to rely on.
+## Why the two studies disagree
+They're measuring different things. ResumeGo measured stated preference in a simulation, where people knew they were in a study and had time to read. Jobscan measured outcomes in real applications, where recruiters are busy and, as Ladders' eye-tracking found, the first pass lasts about 7 seconds. A two-page resume can look more impressive when you're reading carefully, yet do worse when it has to survive a fast skim.
+There's also a confound in the real-world data. People with longer resumes may differ in other ways, so length alone may not cause the difference. And both studies come from companies that sell resume services. Neither is peer-reviewed.
+Read together, though, the pattern is consistent. Early in your career, shorter wins. With real experience, a full and relevant second page helps. Too short is a problem too: mid-career resumes in Jobscan's shortest group did worst of all.
+## How to decide for your resume: the relevance test
+Instead of aiming for a page count, test every line against the job you're applying for:
+- Would the hiring manager for this job care? If not, cut it, however proud you are of it.
+- Is it evidence, or just description? "Managed social media" can go. "Grew Instagram from 2k to 41k followers in 10 months" stays.
+- Is it recent enough to matter? Roles from 10–15+ years ago can usually shrink to one line each, or move to a short "Earlier experience" section.
+If everything passes and it runs onto a second page, that's a legitimate two-page resume. If the second page is mostly padding, you have a one-page resume with extra words.
+### What to cut first
+- An "Objective" statement. Replace it with a 2–3 line summary aimed at the role.
+- "References available upon request".
+- Generic soft skills ("team player", "hard-working") listed without evidence.
+- Duties that every person in that role would have done.
+- Bullets beyond the 3–5 strongest for older roles.
+- High-school details once you have a degree or a few years of work.
+- A full street address. City and country (or state) is enough.
+### What not to do
+- Don't shrink everything to fit. Body text below about 10 pt and very narrow margins make the 7-second skim harder. Cut words instead.
+- Don't pad to reach two pages. Even the CEO behind the pro-two-page study warns against it (see below).
+- Don't leave a half-empty second page. UK graduate site Targetjobs suggests recruiters may prefer a full second page to one that runs out halfway. Either tighten to one page or make the second page count.
+“It would come across as unnatural.”
+— Peter Yang, CEO of ResumeGo, on adding content just to reach a second page · Fast Company
+## Special cases
+### U.S. federal jobs: two pages, strictly
+Federal resumes used to run to five pages or more. That changed under the Office of Personnel Management's Merit Hiring Plan. Since September 27, 2025, USAJOBS only accepts resumes of two pages or fewer. OPM's guidance applies the limit to competitive and excepted service announcements posted on USAJOBS or other platforms. A federal resume still has to show you meet the minimum qualifications, so the relevance test matters even more here.
+### UK and CV-based markets
+“include what's relevant and leave out what's not.”
+— Simon Millar, Business Manager at Reed, on CV length · Reed
+In the UK, two sides of A4 is the standard expectation for most CVs. Recruitment firm Reed calls two pages the sweet spot for most professionals, and graduate careers site Targetjobs treats two pages as the maximum for a graduate CV, so one is fine if that's all you need. Academic CVs are the main exception and can be much longer.
+### Academic and research CVs
+A full academic CV lists publications, grants, teaching and presentations, and has no fixed length. If you're applying for an industry role from academia, convert it to a 1–2 page resume focused on transferable results.
+Tailoring makes the length question easier
+The easiest way to keep a resume short is to stop sending one version everywhere. In Flower Resume, you store your full history once, paste a job description, and the AI drafts a version that leads with what's relevant to that role. You decide what stays.
+Try it free →
+## Frequently asked questions
+Should my resume be one page or two?
++
+If you have under about 5 years of relevant experience, aim for one page. Jobscan's real interview data found the shortest entry-level resumes performed best. With substantial relevant experience, two pages is normal and often preferred. In ResumeGo's hiring simulation, participants chose two-page resumes 2.3 times as often overall. Length should follow relevance, not a rule.
+Is a two-page resume bad for a new graduate?
++
+Usually, yes. In Jobscan's data, entry-level resumes in the shortest quartile had a 17.9% interview rate versus 2.8% for the longest. Two pages can make sense if you have several substantial internships, research, or an advanced degree that is directly relevant.
+How long can a federal resume be?
++
+Two pages. Under OPM's Merit Hiring Plan, USAJOBS has enforced a two-page limit on resumes for federal applications since September 27, 2025, replacing the old long-form federal resume.
+How long should a CV be in the UK?
++
+Two sides of A4 is the standard for most UK CVs, and recruitment firm Reed calls two pages the sweet spot for most professionals. For graduates, two pages is the maximum and one page is fine. Academic CVs are an exception and can be much longer.
+Is it OK to shrink the font to fit one page?
++
+Only a little. Keep body text around 10–12 pt and margins around 0.5–1 inch. If you have to go smaller than that, cut content instead. Recruiters skim, and dense text makes the skim fail.
+## Sources
+- ResumeGo — Settling the Debate: One or Two Page Resumes (2018)
+- ERE — One or two page resumes? (study methodology)
+- Dice — Maybe a two-page résumé is okay after all
+- Jobscan — Page length is not what recruiters say they prefer (2026)
+- Ladders — Eye-Tracking Study (2018), PDF
+- U.S. OPM — Agency Guidance on the Two-Page Limit on Resume Length
+- U.S. OPM — OPM Implements Two-Page Resume Standard (Sept 2025)
+- Fast Company — Are one-page or two-page resumes better?
+- Reed — How long should a CV be?
+- Targetjobs — How long should a graduate CV be?
+- University of Dundee — Writing a CV
+
+---
+
+# How Recruiters Actually Read Your Resume: What the Research Says
+URL: https://flower-resume.com/blog/how-recruiters-read-resumes
+
+Almost every piece of resume advice comes with a confident claim about recruiters: they only look for six seconds, robots reject 75% of resumes, never go over one page. Some of these come from real research. Some are distortions of it. A few appear to have no source at all.
+We went back to the studies people usually cite (and a few newer ones from 2025 and 2026) to see what was actually measured, and what it means for how you should write your resume. Where a study has real limitations, we say so.
+The short version
+- The first skim is fast — about 7 seconds in the best-known eye-tracking study — and it is mostly spent on job titles and structure.
+- Resumes that survive the skim get read much more carefully, sometimes for minutes.
+- Nearly every large employer uses an ATS, but it mostly works as a search engine. Recruiters filter by skills, titles, education and certifications.
+- Rigid filters do screen out qualified people. Mirroring the posting's real requirements in plain language is your best defense.
+- Hiring managers say they increasingly notice generic, AI-sounding resumes — and treat them as a red flag.
+## 1. The first pass really is a skim — about 7 seconds
+The "six-second resume" comes from Ladders, a U.S. job site, which ran an eye-tracking study of recruiters in 2012. It repeated the study in 2018 and found the average initial screen had risen to 7.4 seconds. Eye-tracking records exactly where a reader's gaze goes, so this is one of the few resume studies that measures behavior rather than opinions.
+Two findings matter more than the headline number:
+- Job titles got the most attention. Recruiters spent more time on titles than on any other element.
+- Layout decided whether the skim worked. The resumes that performed best had simple layouts with clearly marked section and job headers. The worst had long sentences, multiple columns, little white space, and no headers to guide the eye down the page.
+Ladders' own career expert explained the 2012 result this way: recruiters are inundated with applications to popular listings, so
+“they don't spend a lot of time carefully reviewing each resume”
+— Amanda Augustine, career expert at TheLadders, on its eye-tracking study · World Economic Forum, 2014
+One caveat: the 2018 report does not say what kinds of roles were being screened or how long the resumes were, a point raised by recruiting publication ERE. Treat 7.4 seconds as "a quick first skim", not a precise law.
+What to do with this
+- Put each job title on its own line, in bold, with the employer and dates next to it.
+- Use one column and standard section names (Experience, Education, Skills).
+- Start bullets with the result or the action, not with "Responsible for".
+- If your official title is unusual, add a plain-English version in brackets: "Associate II, Insights (Product Analytics)".
+## 2. Pass the skim, and they read properly
+The skim is only stage one. In a 2018 hiring simulation run by resume-writing service ResumeGo, 482 recruiters, hiring managers and HR professionals screened resumes for a range of roles. They spent an average of 2 minutes 24 seconds on one-page resumes and 4 minutes 5 seconds on two-page resumes.
+That doesn't contradict Ladders. It shows two different stages: a fast filter, then a real evaluation of the shortlist. Your resume has to work for both. The structure gets you through the skim, and the substance (specific results, scope, evidence) gets you the interview.
+The simulation is also why "two pages is fine" became popular advice. Real interview data tells a more complicated story, which we cover in How Long Should a Resume Be?
+## 3. Nearly every big employer uses an ATS — but it's mostly a search box
+Jobscan checks the career sites of every Fortune 500 company each year to see which applicant tracking system (ATS) they use. In 2025 it detected an ATS at 97.8% of them, and the figure has stayed around 97–99% since 2018. Workday is the most common, used by over 40% of the list.
+The popular claim that "the ATS rejects 75% of resumes before a human sees them" doesn't have a clear source, and it misdescribes how these systems usually work. An ATS stores and organizes applications. Recruiters then search and filter that database, much like you'd filter products on a shopping site. In a 2025 Jobscan survey of 384 recruiters:
+What recruiters filter by | Share of recruiters |
+Skill keywords (first filter) | 76.4% |
+Education background | 59.7% |
+Job titles | 55.3% |
+Certifications | 50.6% |
+Even some resume-tool makers push back on the scare stories. Rezi founder Jacob Jacquet (Rezi is a competitor of ours) describes myths about "ATS screening" this way:
+“a fearmongering tactic used by some online resume builders”
+— Jacob Jacquet, founder and CEO of Rezi · Rezi author page
+So the realistic risk isn't a robot deleting your file. It's that your resume never appears when a recruiter searches for "SQL", "Salesforce" or "Product Analyst", because you wrote "database queries", "CRM", or a title they don't recognize.
+## 4. Rigid filters do screen out qualified people
+The most rigorous evidence that screening systems miss good candidates comes from Harvard Business School and Accenture. Their 2021 report, Hidden Workers: Untapped Talent, surveyed 8,720 workers and 2,275 executives in the US, UK and Germany. It estimated that more than 27 million people in the US were "hidden" from employers by conventional recruiting systems.
+Among employers surveyed, 88% said qualified high-skilled candidates were screened out because they didn't exactly match the hiring criteria, and 94% said the same of middle-skilled candidates. The report's authors note that systems often filter on what's missing, such as a degree or an unexplained gap, rather than on what a candidate can do.
+The report's lead author argues these systems only match what they're configured to look for:
+“ATS systems, like almost all forms of artificial intelligence don't think.”
+— Joseph Fuller, Professor of Management Practice, Harvard Business School · Euronews, 2023
+In that interview he gave the example of a resume ranked low because the system didn't treat living in five countries as "international experience". The candidate had the experience. The system just didn't recognize how it was worded.
+What to do with this
+- Go through the "Requirements" section line by line. For each requirement you genuinely meet, make sure your resume says so in similar words.
+- If you have an equivalent instead of the exact requirement (e.g. 6 years' experience instead of a degree), state it plainly in your summary.
+- If you have a gap, give it one honest line (e.g. "Career break — family care, 2023–2024") rather than leaving a hole for a filter or a reader to guess about.
+## 5. Matching the job title is one of the strongest signals
+In its 2025 State of the Job Search report, built on more than 2.5 million job applications, Jobscan found that resumes whose job title matched the listing had an interview rate 10.6 times higher than those that didn't. Applications with a cover letter had a 3.4 times higher interview rate.
+This is correlation, not proof. People whose titles match are often simply better-fit candidates. But it lines up with the Ladders finding that titles draw the most attention, and with recruiters searching by title. The lesson isn't to fake a title. It's to make sure the title you're targeting appears in your resume when it honestly describes your work, for example in your headline or summary ("Data analyst with 4 years in e-commerce…").
+## 6. Recruiters say they can spot AI-written resumes
+This is the newest finding, and it matters if you use AI tools, including ours. In Resume Genius's 2026 survey of 1,000 U.S. hiring managers, 80% said they can often tell when a resume was written by AI, 77% said many resumes they see look fully or partly AI-generated, and 69% said resumes have become more generic over the past five years.
+The giveaways they named were unnatural phrasing (51%), repetitive or generic language (44%), and vague or inflated descriptions (41%). Note that these are things hiring managers believe they can detect. A survey can't tell us how accurate they are. Either way, generic writing hurts you, whoever wrote it. We wrote a full guide on using AI without sounding like AI.
+## A checklist based on the evidence
+- Make titles, employers and dates scannable: one line each, consistent format.
+- Use one column and standard headers. It helps both the 7-second skim and ATS parsing.
+- Mirror the posting's must-have skills using its exact terms, wherever you genuinely have them.
+- Put the target job title in your headline or summary if it truthfully describes you.
+- Lead with your most relevant role and results, because the top third gets the most attention.
+- Address equivalents and gaps in one plain line instead of hoping no one notices.
+- Replace adjectives with evidence: numbers, scope, named tools, named outcomes.
+- Tailor for each application. Every point above depends on the specific posting.
+A note on the research itself
+Most resume research is done by companies that sell resume services, including Ladders, ResumeGo, Jobscan and Resume Genius, and very little of it is peer-reviewed. The Harvard/Accenture report is the notable exception in rigor. We've used these studies because they're the best available, but treat the exact numbers as directional. When two sources disagree, as they do on resume length, we've said so.
+Where Flower Resume fits
+Flower Resume reads the job description you paste in, pulls out its required and nice-to-have keywords, shows how well your resume covers them, and drafts a tailored version you can export with a single-column, ATS-friendly template. It's free. You still need to check every line and add the specifics only you know.
+Try it free →
+## Frequently asked questions
+How long do recruiters spend looking at a resume?
++
+In Ladders' 2018 eye-tracking study, the average initial screen lasted 7.4 seconds, up from 6 seconds in its 2012 study. That number describes the first skim only. In ResumeGo's 2018 hiring simulation, participants who were actually evaluating resumes spent about 2 minutes 24 seconds on one-page resumes and about 4 minutes 5 seconds on two-page resumes.
+Do applicant tracking systems automatically reject resumes?
++
+Usually not in the way people imagine. Most ATS platforms work as a searchable database: recruiters filter and rank candidates by skills, job titles, education and certifications, and "knockout" questions can screen people out. In a 2025 Jobscan survey, 76.4% of recruiters said they filter by skill keywords first. The practical effect is similar to rejection if your resume does not contain the terms they search for.
+What do recruiters look at first on a resume?
++
+Ladders found recruiters spent the most time on job titles, and that the best-performing resumes had simple layouts with clear section and job headers. Put your titles, employers and dates where they are easy to scan, and keep your most relevant experience near the top.
+Can recruiters tell if a resume was written by AI?
++
+Most say they can. In Resume Genius's 2026 survey of 1,000 U.S. hiring managers, 80% said they can often tell when a resume was written by AI, and the most-cited giveaways were unnatural phrasing, repetitive or generic language, and vague or inflated descriptions.
+## Sources
+- Ladders — Eye-Tracking Study (2018), PDF
+- HR Dive — Recruiters spend 7.4 seconds looking at your resume (2018)
+- ERE — Is the 6-second resume scan a myth?
+- ResumeGo — Settling the Debate: One or Two Page Resumes (2018)
+- Jobscan — Fortune 500 ATS Usage Report
+- Jobscan — ATS-Ready Resumes (2025 survey of 384 recruiters)
+- Jobscan — The State of the Job Search in 2025
+- Harvard Business School Working Knowledge — How to Tap the Talent Automated HR Platforms Miss
+- World Economic Forum — What recruiters look for on your CV (2014)
+- Rezi — Jacob Jacquet author page
+- Euronews — How AI is filtering millions of qualified candidates out of the workforce (2023)
+- HR Dive — Applicant tracking systems may exclude whole segments of candidates
+- HRO Today — Resume Genius 2026 Hiring Insights Report coverage
+- Resume Genius — 2026 Hiring Insights Report
+
+---
+
+# How to Tailor Your Resume to a Job Description (Step-by-Step)
+URL: https://flower-resume.com/blog/how-to-tailor-resume-for-job-description
+
+FreeUnlimited AI Resume Builder — Paste JD & Download PDF
+Home
+Blog
+Pricing
+About
+Get Started
+✕
+← Back to Blog
+Resume Strategy
+#
+How to Tailor Your Resume for Any Job Description (Step-by-Step)
+June 15, 2026
+·
+8 min read
+·
+By Flower Resume
+Key takeaways
+- Tailoring means rewriting your summary, bullets and skills to match one job's own language, for experience you actually have.
+- In Huntr's analysis of 1.7 million applications, tailored resumes converted to interviews at 1.6x to 2x the rate of resumes sent unchanged.
+- Read the posting twice, put the exact job title and 2–3 key skills in your summary, rewrite your most relevant bullets with results, and match the skills list's spelling.
+- By hand it takes 45–90 minutes per application; an AI draft cuts that to a review of every line.
+Here's a hard truth: sending the same resume to every job is one of the biggest mistakes job seekers make. It feels efficient, but it's actually the slowest path to getting hired.
+Huntr's analysis of 1.7 million applications found tailored resumes had a 1.6x to 2x higher application-to-interview rate than resumes sent unchanged (source). And with AI tools available today, tailoring doesn't have to take hours — it can take minutes.
+## Why Tailoring Your Resume Matters
+When a company posts a job, they're describing exactly what they want. The job description is essentially a checklist of what the hiring manager is looking for.
+A career fellow at Yale's Office of Career Strategy, passing on what she heard from HR teams, put it in five words:
+“Hiring managers are not detectives.”
+— Esther Choi, McDougal Career Fellow, Yale Office of Career Strategy · Yale OCS, Nov 2025
+Most applicants ignore that checklist. A tailored resume says: "I read what you need, and here's proof I have it."
+There are two key reasons tailoring matters:
+- ATS filters: Most companies use Applicant Tracking Systems that scan for specific keywords from the job description. Recruiters then search those systems by keyword, so a resume missing the job's own words may never show up.
+- Recruiter attention: Recruiters spend an average of 6–7 seconds per resume. A tailored resume makes relevant experience immediately obvious.
+## Step 1: Read the Job Description Carefully
+Read the job description at least twice. Look for:
+- Required skills — non-negotiable keywords
+- Preferred skills — include if you have them
+- Responsibilities — clues about what language to use
+- Repeated words or phrases — the more something appears, the more important it is
+- Seniority level — "manages" vs. "supports" matters
+## Step 2: Match Your Professional Summary
+Your resume summary is prime real estate. For each application, rewrite it to include the exact job title, mirror 2–3 key skills, and mention the industry if relevant.
+Pro tip: copy the exact phrasing from the job description into your summary when natural. ATS systems often do exact-match keyword scanning.
+## Step 3: Rewrite Your Bullet Points
+For bullets that are relevant, rewrite them to use the same terminology the JD uses, lead with action verbs matching the role's responsibilities, and include quantifiable results.
+Before: "Worked with the marketing team on social media content."
+After: "Owned end-to-end social media strategy across Instagram and LinkedIn, growing engagement by 42% in 6 months."
+## Step 4: Update Your Skills Section
+Add any required or preferred skills you have that aren't on your resume. Remove skills that are completely irrelevant. Use the exact same spelling and capitalization as the job description — if they say "Google Analytics 4," don't write "web analytics."
+## Step 5: The Manual vs. Automated Approach
+Doing all of the above manually takes 45–90 minutes per application. If you're sending 20+ applications a week, it becomes a full-time job.
+HR leaders say the same about using one resume everywhere:
+“you cannot use your resume as a catch-all for every position”
+— Len Friedrichs, SVP of Human Resources and Administration, Addison Group · Reader's Digest
+This is exactly why we built Flower Resume. Paste the job description and the AI does steps 1–5 automatically — in seconds. Free, no limits.
+## Quick Checklist
+- ✓ Read the JD twice and map keywords
+- ✓ Rewrite your professional summary
+- ✓ Update bullets with matching language and results
+- ✓ Add missing skills with exact spelling
+- ✓ Remove irrelevant content
+- ✓ Save as clean PDF with professional file name
+Skip the manual work: Flower Resume does all of this automatically. Paste the job description, get a tailored resume in seconds. Free, no limits.
+## Frequently asked questions
+Should I tailor my resume for every job?
++
+For every role you genuinely want, yes. At minimum, update your summary, reorder your strongest bullets, and match your skills list to the posting's wording. Tailored resumes converted to interviews 1.6x to 2x more often in Huntr's analysis of 1.7 million applications.
+Is it OK to copy words from the job description?
++
+Yes, for skills, tools and job titles you really have: use the posting's exact terms so recruiters find you when they search. Don't paste whole sentences or claim experience you can't back up in an interview.
+How long does tailoring a resume take?
++
+Doing it fully by hand typically takes 45–90 minutes per application. With a saved master resume and an AI first draft, most of the time goes into reviewing and fact-checking, often around 10 minutes.
+What if I don't meet every requirement?
++
+Apply when you meet most of the core requirements. Lead with your closest matching experience, and state equivalents plainly in your summary (for example, years of experience in place of a specific degree).
+Ready to tailor your resume? Create your first in under 2 minutes — free, no limits.
+Get Started Free
+
+---
+
+# How to Write Resume Bullet Points That Get You Interviews (2026)
+URL: https://flower-resume.com/blog/how-to-write-resume-bullet-points
+
+Key takeaways
+- Write each bullet as action verb + what you did + measurable result, close to Laszlo Bock's "Accomplished [X] as measured by [Y] by doing [Z]".
+- Start with a strong verb (Led, Built, Reduced), never "Responsible for" or "Helped with".
+- Quantify with people, budget, percentages, revenue, customers or time; an honest approximation beats no number.
+- Use 4–6 bullets for your latest role, 2–4 for earlier ones, and 1–2 for roles from 5+ years ago.
+Your resume bullet points are doing most of the heavy lifting. They're what recruiters actually read — everything else is just context. And yet most people write bullets that say almost nothing.
+"Responsible for managing social media accounts." "Helped with customer service." "Worked on various projects."
+These tell a recruiter nothing useful. They're job descriptions, not accomplishments. Here's how to fix them.
+## The Formula: Action + Task + Result
+Every strong resume bullet follows this structure:
+Google's former head of people operations, Laszlo Bock, popularized a near-identical formula in 2014:
+“Accomplished [X] as measured by [Y] by doing [Z]”
+— Laszlo Bock, former SVP of People Operations, Google · Inc.
+[Strong Action Verb] + [What You Did] + [Measurable Result]
+Example: Increased email open rates by 34% by rewriting subject lines and segmenting the list by purchase history.
+This formula works because it immediately answers the only question a recruiter has: "What did this person actually accomplish?"
+## Step 1 — Start With a Strong Action Verb
+The first word of your bullet sets the entire tone. Weak openers like "Helped," "Assisted," "Worked on," or "Responsible for" bury your contribution. Start with a verb that owns the action.
+Leadership
+- Led
+- Directed
+- Managed
+- Oversaw
+- Spearheaded
+Growth
+- Grew
+- Increased
+- Scaled
+- Expanded
+- Boosted
+Efficiency
+- Streamlined
+- Reduced
+- Automated
+- Optimized
+- Cut
+Creation
+- Built
+- Launched
+- Designed
+- Developed
+- Created
+Analysis
+- Analyzed
+- Evaluated
+- Identified
+- Researched
+- Assessed
+Collaboration
+- Partnered
+- Coordinated
+- Facilitated
+- Collaborated
+- Aligned
+## Step 2 — Add Specific Numbers
+Numbers are the most credible thing you can put on a resume. They turn vague claims into concrete evidence. If you can quantify something, quantify it.
+- How many people did you manage? (5 people? 50?)
+- What was the budget you controlled?
+- By what percentage did you improve something?
+- How much revenue did you generate or save?
+- How many customers, users, or accounts did you handle?
+- What was the timeline? (cut process time from 3 weeks to 4 days)
+If you truly can't find a number, use approximations: "~50 clients," "over $200K," "3x faster." Approximate numbers are still stronger than no numbers.
+## Step 3 — Show the Impact, Not Just the Task
+The "result" part of the formula is where most people give up. They stop at the task and never explain why it mattered. The "so what?" is what separates a good bullet from a great one.
+Before — task only
+Managed the company's Instagram account and created weekly posts.
+After — action + task + result
+Grew Instagram following from 2,400 to 18,000 in 8 months by launching a weekly behind-the-scenes series, increasing average post reach by 340%.
+Before — task only
+Helped with customer onboarding and answered support tickets.
+After — action + task + result
+Reduced average onboarding time from 14 days to 6 by redesigning the welcome flow and creating a self-serve help center, cutting support tickets by 28%.
+## How Many Bullets Per Role?
+A good rule of thumb:
+- Most recent role: 4–6 bullets
+- Previous roles: 2–4 bullets
+- Roles 5+ years ago: 1–2 bullets, or drop entirely
+Focus every bullet on what's most relevant to the job you're applying for. Quality over quantity — 4 strong bullets beat 8 weak ones every time.
+## Common Mistakes to Avoid
+- Listing job duties instead of achievements. Your job description already exists somewhere. Use this space to prove you were good at it.
+- Writing in present tense for past roles. Past roles should use past tense verbs. Only your current role can use present tense.
+- Using the same verb repeatedly. If every bullet starts with "Managed," you look one-dimensional. Vary your verbs.
+- Making bullets too long. One bullet = one idea. If it runs more than two lines, split it or cut the fat.
+- Forgetting soft-skill context. "Reduced churn by 18%" is good. "Reduced churn by 18% by rebuilding the customer success playbook and coaching a team of 6" is better.
+## What If I Don't Have Hard Numbers?
+Not every role is easily quantifiable. Here's how to handle it:
+Bock's view is that almost every role has something measurable:
+“there is almost always something you can point to that differentiates you from others”
+— Laszlo Bock, former SVP of People Operations, Google · Business Insider
+- Use scope instead of outcome. "Managed a portfolio of 40+ enterprise clients" shows scale even without a % improvement.
+- Describe the before/after state. "Migrated legacy codebase from jQuery to React, eliminating 12,000 lines of deprecated code."
+- Reference recognition. "Recognized as top performer in Q3 2025 across a team of 22 sales reps."
+- Use frequency. "Delivered weekly presentations to C-suite stakeholders across 3 time zones."
+Let AI do the first draft
+Paste your job description into Flower Resume and the AI will generate achievement-focused bullet points tailored to that specific role — then you edit and refine from there. It's faster than starting from scratch.
+Try it free →
+## Frequently asked questions
+How many bullet points should each job have?
++
+About 4–6 for your most recent role, 2–4 for previous roles, and 1–2 (or none) for roles from more than five years ago. Four strong, relevant bullets beat eight weak ones.
+What if my job has no numbers to show?
++
+Use scope ("managed 40+ enterprise clients"), a before-and-after state, recognition ("top performer of 22 reps"), or frequency ("weekly presentations to the C-suite").
+Should resume bullets be in past or present tense?
++
+Past tense for previous roles. Only your current role can use present tense.
+How long should a resume bullet be?
++
+One idea per bullet, ideally one line and no more than two. If it runs longer, split it or cut words.
+
+---
+
+# How to Write a Resume With No Experience (2026 Guide)
+URL: https://flower-resume.com/blog/resume-with-no-experience
+
+Key takeaways
+- Count everything: internships, part-time jobs, campus roles, freelance work, volunteering, class projects, personal projects and certifications.
+- Order it as contact details, summary, skills, projects, education, then other experience.
+- Write each project like a job: what you built, the tools you used and the result, with a link.
+- Leave out objective statements, high-school details (once in college), "references available" and unsupported soft skills.
+Every experienced professional once had a resume with no experience. The challenge is that the job market assumes you already have it — entry-level roles ask for 1–2 years of experience, internships expect prior internships.
+The way out is to stop thinking about "experience" as only paid full-time work. You have experience. You just need to frame it correctly.
+## What Counts as Experience?
+Before writing anything, do an honest inventory. "No experience" is rarely literally true. Think about:
+LinkedIn's chief economic opportunity officer says the first task for entry-level workers is to
+“define their story of self”
+— Aneesh Raman, Chief Economic Opportunity Officer, LinkedIn · Business Insider
+- Internships — even short, unpaid ones count significantly
+- Part-time or seasonal jobs — retail, food service, tutoring — all have transferable skills
+- Campus involvement — clubs, student government, sports teams (especially leadership roles)
+- Freelance work — website you built for a relative, photos you took for an event, tutoring students
+- Volunteer work — especially recurring commitments
+- Class projects — capstone projects, research papers, case studies, group projects
+- Personal projects — GitHub repos, a blog, a YouTube channel, an Etsy shop
+- Certifications — Google, HubSpot, AWS, Coursera, LinkedIn Learning
+Map all of these out before you start. You'll have more than you expect.
+## The Right Resume Structure for No Experience
+Standard resumes lead with Work Experience. Yours should be structured differently — put your strongest proof points first.
+1
+Contact Info
+Name, email, phone, LinkedIn, portfolio/GitHub (if relevant).
+2
+Professional Summary (3–4 lines)
+State your degree/field, your top 2–3 relevant skills, and the kind of role you're targeting. This frames everything that follows.
+3
+Skills Section (move this up — it's your hook)
+List 8–12 hard skills specific to the job. Don't list generic things like "Microsoft Word" or "team player." Focus on tools, technologies, and methods the job description mentions.
+4
+Projects / Relevant Experience
+Your most important section. Treat every project like a work entry: project name, your role, what you built/did, and what resulted. Add GitHub/live links where possible.
+5
+Education
+Degree, institution, graduation year. Add GPA if 3.5+. Add relevant coursework if it maps directly to the role. Add honors, dean's list, scholarships.
+6
+Other Experience (internships, part-time, volunteer)
+Even non-relevant jobs show reliability and work ethic. Write 2–3 bullet points focusing on transferable skills: customer service, communication, attention to detail, working under pressure.
+## How to Write Project Entries
+Projects are the backbone of a no-experience resume. Treat each one like a job entry. Here's the format:
+Project Name | Personal / Academic Project | Month Year
+- Built [what] using [technologies/tools] that [does what].
+- Implemented [feature] which resulted in [outcome or learning].
+- Link: github.com/yourname/project or project-url.com
+Real example — software engineering student
+Budget Tracker App | Personal Project | Jan 2026
+- Built a full-stack expense tracking web app using React, Node.js, and PostgreSQL with user authentication and real-time charts.
+- Deployed to Vercel with CI/CD pipeline via GitHub Actions; 200+ personal commits, 94% test coverage.
+- GitHub: github.com/jsmith/budget-tracker
+## What NOT to Put on an Entry-Level Resume
+- An objective statement. "Seeking a challenging position to utilize my skills" says nothing. Replace it with a proper summary.
+- High school experience (if you're in or past college). Unless it was a nationally significant achievement, leave it off.
+- "References available upon request." Implied. Wastes space.
+- Soft skills listed without proof. "Strong communicator" means nothing. Show it through a bullet: "Presented research findings to a panel of 40 industry professionals."
+- A photo. Unless you're applying in a country where this is standard, leave it off. It opens the door to bias.
+## Tailor Every Application
+Entry-level hiring is competitive. Generic applications get filtered out. For every role you apply to, go through the job description and make sure your resume explicitly mirrors the language used. If the JD says "data analysis skills," make sure those exact words appear in your resume — recruiters search the ATS for them.
+This sounds tedious, but it takes 5–10 minutes per application if your base resume is solid.
+Tailor your resume for every application — for free
+Paste any job description into Flower Resume and the AI rewrites your resume to match. Keeps your personal info, adapts the language. No watermarks, no subscription, no credit card.
+Try it free →
+## Frequently asked questions
+What do I put on a resume with no work experience?
++
+Projects, internships, part-time or volunteer work, campus leadership, freelance jobs and certifications. Present each like a job entry, with what you did and what came of it.
+Should I include a summary on an entry-level resume?
++
+Yes. Three or four lines stating your degree or field, your top two or three relevant skills, and the kind of role you're targeting, in place of an objective statement.
+How long should a resume with no experience be?
++
+One page. Real interview data from Jobscan found the shortest entry-level resumes performed best.
+Should I include my GPA?
++
+Include it if it's 3.5 or higher, along with relevant coursework, honors and scholarships that match the role.
+
+---
+
+# How to Use AI on Your Resume Without Sounding Like AI (2026)
+URL: https://flower-resume.com/blog/use-ai-for-resume-without-sounding-like-ai
+
+Key takeaways
+- 80% of U.S. hiring managers say they can often tell when a resume was written by AI (Resume Genius, 2026).
+- What they flag is unnatural phrasing, generic language and vague or inflated claims, which are all fixable.
+- Use AI to read the job description, find keyword gaps and draft from your own facts; never let it invent numbers.
+- Fact-check every line, cut buzzwords, and add one detail per role that only you would know.
+AI resume tools are now so common that hiring managers say they're getting a flood of resumes that look and sound the same. That doesn't mean you shouldn't use AI. Used well, it's the fastest way to tailor a resume to each job. But there's a real difference between a resume that was drafted with AI and one that sounds like AI, and recruiters notice it.
+Here's what the 2026 data says, where AI genuinely helps, where it hurts, and a workflow that gets you the speed without the sameness. (Disclosure: Flower Resume is an AI resume builder. This is how we'd want you to use our tool, or anyone's.)
+## What hiring managers are saying in 2026
+Finding | Source |
+80% of hiring managers say they can often tell when a resume was written by AI | Resume Genius, 1,000 U.S. hiring managers |
+77% say many resumes they see look fully or partly AI-generated | Resume Genius |
+69% say resumes are more generic or formulaic than five years ago | Resume Genius |
+Heavily AI-generated materials are the #2 red flag (49%), behind job-hopping (65%) | Resume Genius 2026 Hiring Trends, 1,500 hiring managers |
+58% of hiring managers use AI to screen resumes themselves | Resume Genius 2026 Hiring Trends |
+67% of hiring managers say AI-generated applications have slowed hiring | Robert Half, 2026 |
+Two things stand out. First, the double standard: most hiring managers use AI to screen while penalizing applications that feel machine-written. Second, what they actually object to. The top giveaways in the Resume Genius survey were unnatural phrasing (51%), repetitive or generic language (44%) and vague or inflated descriptions (41%). None of those is about the tool. They're about the writing, and you can fix all of them.
+“resumes feel specific and grounded in real experience”
+— Eva Chan, career expert at Resume Genius, describing the 2026 candidates who stand out · HRO Today
+Robert Half, the staffing firm behind the 67% figure, draws a similar conclusion from the employer side:
+“reinforces the importance of human judgment, expertise and oversight in hiring”
+— Matt Weston, Senior Managing Director, UK & Ireland, Robert Half, on AI-generated applications · Staffing Industry Analysts, Sept 2026
+## Where AI genuinely helps
+- Reading the job description for you. Pulling out the must-have skills, tools and title from a long posting takes seconds, and those are exactly what recruiters filter on.
+- Gap-finding. Showing which required keywords your resume doesn't mention yet, so you can add the ones you honestly have.
+- Restructuring. Reordering sections and bullets so the most relevant experience comes first for each application.
+- Turning rough notes into clean bullets. You supply the facts; it handles grammar, tense, and consistent formatting.
+- Speed. Tailoring by hand takes long enough that in Jobscan's 2025 survey, 26% of job seekers said it takes a lot of time. AI makes per-job tailoring practical.
+## Where AI hurts
+- Invented specifics. Models fill gaps with plausible details, like "increased efficiency by 30%", that you can't back up in an interview.
+- Inflated scope. "Contributed to" quietly becomes "led", and "supported" becomes "spearheaded".
+- Buzzword stacking. Every bullet starts with the same kind of verb and ends with the same kind of outcome.
+- Losing you. The odd, specific details that make you memorable get smoothed away.
+- Stopping at the first draft. Kickresume CEO Peter Duris has noted that people tend to accept a generic AI draft because it's already on the page, instead of digging for what's specific to them:
+“Those are self-knowledge problems, not writing problems.”
+— Peter Duris, co-founder and CEO of Kickresume · ContentGrip, July 2026
+## A 7-step workflow that keeps it human
+- Feed it facts, not vibes. Before you open any AI tool, write a rough "brag list" for each role: projects, numbers, tools, who you worked with, what changed because of you. AI is only as specific as what you give it.
+- Paste the real job description. Use the posting itself, not just a job title. That's what lets the draft match the employer's actual language and requirements.
+- Generate a first draft, then treat it as a draft. Never send the first output.
+- Fact-check every claim. Go bullet by bullet: did I do this, at this scale, with this result? Delete any number you can't explain in an interview.
+- Do a "de-AI" pass. Cut or vary words like spearheaded, leveraged, orchestrated, results-driven, dynamic, synergy, passionate about, proven track record. Make sure no two bullets in a row have the same structure. Read it aloud, and rewrite anything you wouldn't say to a colleague.
+- Add one detail per role that only you would know. A named system, an unusual constraint, a specific customer type, a number with a story behind it.
+- Keep a master version. Store your full, honest history once and generate tailored versions from it, so mistakes don't build up across copies.
+## Before and after
+Here's a typical AI-generated bullet for an operations role, and a version that went through the steps above:
+Sounds like AI
+"Spearheaded cross-functional initiatives to optimize operational efficiency, leveraging data-driven insights to drive significant cost savings and enhance stakeholder satisfaction."
+Sounds like a person who did the work
+"Rebuilt the weekly delivery schedule for 14 regional stores in Google Sheets after two missed shipments; late deliveries fell from 11 to 3 a month over the next quarter."
+The second version is shorter on adjectives and longer on evidence: a named tool, a real scope, a reason, and a result. No AI would invent those details. You have to supply them.
+## Check the employer's rules
+Most private employers don't ban AI-assisted resumes, but some public employers are explicit. U.S. federal agency NIST, for example, tells applicants not to use AI-generated, plagiarized or recycled content, and warns it can lead to removal from consideration. If a posting or careers page says something similar, follow it: write it yourself and use AI only for proofreading, or not at all.
+How Flower Resume is built around this
+You enter your real history once. When you paste a job description, Flower Resume extracts its keywords, shows how well your resume covers them, and drafts a tailored version from your profile. You can then regenerate any section or edit it by hand. The draft is a starting point, so the final read and the specifics are still yours to add.
+Try it free →
+## Frequently asked questions
+Is it OK to use AI to write my resume?
++
+Generally yes, as a drafting and editing tool, as long as every claim is true and the result sounds like you. Hiring managers object to generic, inflated or fabricated content, not to the tool itself. Check each employer's rules: some, such as certain U.S. federal agencies, warn applicants against submitting AI-generated content.
+Can employers detect an AI-written resume?
++
+There is no reliable automatic detector for resumes, but people say they notice the patterns. In Resume Genius's 2026 survey, 80% of hiring managers said they can often tell, citing unnatural phrasing, repetitive or generic language, and vague or inflated descriptions.
+What words make a resume sound AI-generated?
++
+Clusters of polished but empty words: "spearheaded", "leveraged", "results-driven", "dynamic", "synergy", "orchestrated", "passionate about", "proven track record", especially when every bullet uses the same structure. One of them is fine. Five in a row is a pattern.
+Will AI make up numbers on my resume?
++
+It can. Language models fill gaps with plausible-sounding details, including metrics you never achieved. Give the tool your real numbers, and delete or verify any figure it adds. Unverifiable claims can cost you in interviews and background checks.
+## Sources
+- Resume Genius — 2026 Hiring Insights Report
+- HRO Today — Is AI taking the personality out of recruitment? (Resume Genius data)
+- CPA Practice Advisor — AI-written applications are now the #2 red flag in hiring (Aug 2026)
+- Resume Genius — AI impact on hiring 2026
+- Staffing Industry Analysts — 67% of HR leaders say AI-generated applications slow hiring (Mar 2026)
+- People Matters — Robert Half survey on AI-generated resumes
+- Staffing Industry Analysts — AI-generated CVs flood employers and slow hiring in the UK (Sept 2026)
+- ContentGrip — Peter Duris on why generic AI content fails (July 2026)
+- NIST — Resume guidance for applicants
+- Jobscan — The State of the Job Search in 2025
+
+---
+
+# The 1-Hour Weekly Job Search System That Gets Results (2026)
+URL: https://flower-resume.com/blog/weekly-job-search-system
+
+Key takeaways
+- Block one focused hour a week: 10 minutes following up, 15 finding 3–5 good-fit roles, 25 tailoring and applying to the best 2–3, and 10 contacting your network.
+- Only apply where you meet most of the requirements; quality beats volume.
+- Follow up 5–7 business days after applying with a three-sentence email.
+- Track every application in a simple spreadsheet: company, role, date, status, follow-up date.
+Most job seekers approach their search the wrong way. They open LinkedIn, scroll job listings for an hour, apply to six things with the same generic resume, and wonder why no one calls back. Then they repeat it three times a week and burn out within a month.
+The problem isn't effort — it's method. A focused one-hour weekly session with a clear framework will generate more interviews than ten hours of unfocused applying. Here's the system.
+## Why Most Job Searches Fail
+Before the framework, let's understand the core mistake: volume without quality.
+Even finding the right postings is harder than it looks. LinkedIn reports that more than half of job candidates
+“miss postings because they don't know which filters or job titles to use”
+— LinkedIn, company newsroom, 2025 · LinkedIn News
+Tailoring changes the odds: Huntr's analysis of 1.7 million applications found tailored resumes converted to interviews at 1.6x to 2x the rate of resumes sent unchanged. The math favors quality. Yet most people optimize for the feeling of productivity (more applications sent) rather than the outcome (interviews booked).
+## The 1-Hour Weekly System
+This isn't 1 hour total — it's 1 focused hour at a fixed time each week as your core job search session. You can do more, but this hour is non-negotiable and follows a structure.
+1
+Minutes 0–10: Review & Follow Up
+Check every open application. Any interview requests get priority. For anything you applied to 5–7 days ago with no response, send a brief, polite follow-up email. Keep a simple spreadsheet: company, role, date applied, status, follow-up date.
+2
+Minutes 10–25: Find This Week's Targets
+Use two or three job boards max (LinkedIn, Indeed, and one niche board for your field). Set up saved searches so new listings come to you rather than scrolling. Identify 3–5 roles that genuinely excite you and fit your experience. Quality filter ruthlessly — only apply to roles where you meet 70%+ of requirements.
+3
+Minutes 25–50: Tailor & Apply
+Apply to your best 2–3 targets this session. For each, paste the job description into Flower Resume, generate a tailored resume, review and adjust, then submit. A genuinely tailored application takes 8–10 minutes — not an hour.
+4
+Minutes 50–60: Warm Your Network
+Send one genuine message per week. Not "do you have any openings?" — something specific: comment on someone's LinkedIn post, ask a former colleague for a 15-minute chat, or reach out to a recruiter at a target company. A warm introduction is one of the most reliable ways to get your resume read.
+## The Follow-Up Rule
+Most candidates don't follow up. This is a free advantage. Send a short, professional follow-up 5–7 business days after applying if you haven't heard back:
+Subject: Following up — [Role Title] Application
+Hi [Name],
+I wanted to briefly follow up on my application for the [Role] position submitted on [Date]. I'm genuinely excited about the work [Company] is doing with [specific thing] and believe my background in [X] maps well to what you're looking for.
+Happy to provide any additional information. Thanks for your time.
+[Your name]
+Keep it to three sentences. Don't apologize for following up. Don't ask "did you receive my application?" — just restate your interest and your fit.
+## How to Track Applications
+You need a simple tracker. A spreadsheet with these columns is enough:
+Company |
+Role |
+Applied |
+Status |
+Follow-up |
+Acme Corp | Product Manager | Jul 15 | Followed up | Jul 22 |
+TechCo | Senior PM | Jul 17 | Interview booked | — |
+Startup XYZ | Head of Product | Jul 20 | Pending | Jul 27 |
+## What About Actively Job Searching Full-Time?
+If you're between jobs and have more time, scale the system — don't abandon it. Add a second focused session each week (not eight hours of aimless applying). Use extra time for skill-building, networking coffee chats, and interview prep — not for sending more generic applications.
+## How Many Applications Is Realistic?
+At this cadence you're submitting 6–12 genuinely tailored applications per month. That sounds low. It isn't. Response rates vary widely by field and seniority, but a steady stream of well-matched, tailored applications builds a pipeline far more reliably than bursts of generic ones.
+Volume alone doesn't help, and recruiters notice. A LinkedIn product director described recruiters finding that
+“less than half of the job applications submitted are actually meeting the required criteria”
+— Rohan Rajiv, Director of Product Management, LinkedIn · TechCrunch, Jan 2025
+Cut tailoring time to under 2 minutes
+Flower Resume lets you paste a job description and instantly generate a tailored resume. That's the most time-consuming part of this system — solved. Your 25-minute application window can now cover 3–4 roles instead of 1.
+Try it free →
+## Frequently asked questions
+How many job applications should I send per week?
++
+With this system, 2–3 genuinely tailored applications per focused session, or roughly 6–12 a month. Fewer, better-matched applications tend to produce more interviews than mass-applying with one generic resume.
+When should I follow up on a job application?
++
+About 5–7 business days after applying if you haven't heard back. Keep it to three sentences: restate the role, your interest and your fit.
+Which job boards should I use?
++
+Two or three at most: for example LinkedIn, Indeed and one niche board for your field, with saved searches so new postings come to you.
+How do I track job applications?
++
+A spreadsheet is enough: company, role, link, date applied, status, contact and next follow-up date. Review it at the start of every weekly session.

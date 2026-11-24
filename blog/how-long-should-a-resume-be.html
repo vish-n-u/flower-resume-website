@@ -51,15 +51,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     "name": "Flower Resume",
     "url": "https://flower-resume.com/about"
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Flower Resume",
-    "url": "https://flower-resume.com/",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://flower-resume.com/images/logo-512.png"
-    }
-  },
+  "publisher": {"@id": "https://flower-resume.com/#organization"},
   "datePublished": "2026-11-24",
   "dateModified": "2026-11-24",
   "mainEntityOfPage": "https://flower-resume.com/blog/how-long-should-a-resume-be"
@@ -135,6 +127,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       "position": 3,
       "name": "How Long Should a Resume Be in 2026? What the Data Says",
       "item": "https://flower-resume.com/blog/how-long-should-a-resume-be"
+    }
+  ]
+}
+  </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://flower-resume.com/#organization",
+      "name": "Flower Resume",
+      "url": "https://flower-resume.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://flower-resume.com/images/logo-512.png",
+        "width": 512,
+        "height": 512
+      },
+      "description": "Free AI resume builder that tailors your resume to any job description and exports watermark-free PDFs.",
+      "email": "hello@flower-resume.com"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://flower-resume.com/#website",
+      "url": "https://flower-resume.com/",
+      "name": "Flower Resume",
+      "publisher": {
+        "@id": "https://flower-resume.com/#organization"
+      },
+      "inLanguage": "en"
     }
   ]
 }
