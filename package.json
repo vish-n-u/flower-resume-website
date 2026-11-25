@@ -1,0 +1,12 @@
+{
+  "name": "flower-resume-website",
+  "private": true,
+  "description": "Static marketing site for flower-resume.com",
+  "scripts": {
+    "build:css": "tailwindcss -i ./css/tailwind.input.css -o ./css/tailwind.css --minify",
+    "watch:css": "tailwindcss -i ./css/tailwind.input.css -o ./css/tailwind.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "3.4.19"
+  }
+}
