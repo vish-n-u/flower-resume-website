@@ -45,3 +45,94 @@
 .mobile-menu.open {
   transform: translateX(0);
 }
+
+/* Mobile menu: hide from screen readers / keyboard focus while closed */
+.mobile-menu {
+  visibility: hidden;
+  transition: transform 0.3s ease, visibility 0.3s;
+}
+.mobile-menu.open {
+  visibility: visible;
+}
+body.menu-open {
+  overflow: hidden;
+}
+
+/* Comparison & data tables: hint that they scroll sideways */
+.table-scroll-hint {
+  display: none;
+  align-self: stretch;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 6px;
+  font-size: 12px;
+  color: #94a3b8;
+  text-align: right;
+  transition: opacity 0.3s;
+}
+.table-scroll-hint.seen {
+  opacity: 0;
+}
+.table-scroll-hint.show {
+  display: block;
+}
+
+@media (max-width: 639px) {
+  /* Tables: tighter cells, readable size, feature column stays put while scrolling */
+  .overflow-x-auto > table {
+    font-size: 13px;
+    min-width: 460px;
+  }
+  .overflow-x-auto > table th,
+  .overflow-x-auto > table td {
+    padding: 10px 12px;
+  }
+  .overflow-x-auto > table th:first-child,
+  .overflow-x-auto > table td:first-child {
+    position: sticky;
+    left: 0;
+    z-index: 1;
+    width: 118px;
+    min-width: 118px;
+    box-shadow: 1px 0 0 #e2e8f0;
+  }
+  :where(.overflow-x-auto > table td:first-child) {
+    background-color: #fff;
+  }
+  :where(.overflow-x-auto > table th:first-child) {
+    background-color: #f8fafc;
+  }
+
+  /* Footer: two tidy columns with comfortable tap targets */
+  footer > div:first-child {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 28px 20px;
+    width: 100%;
+  }
+  footer > div:first-child > a:first-child {
+    grid-column: 1 / -1;
+  }
+  footer > div:first-child ul {
+    margin-top: 4px;
+  }
+  footer > div:first-child ul > li + li {
+    margin-top: 0;
+  }
+  footer > div:first-child li a {
+    display: inline-block;
+    padding: 7px 0;
+    font-size: 14px;
+  }
+  footer > div:first-child p {
+    font-size: 13px;
+  }
+  footer > div:last-child {
+    width: 100%;
+  }
+  footer a[aria-label] {
+    padding: 10px;
+    margin: -6px;
+  }
+}
